@@ -507,10 +507,10 @@ Index,0 [INT] [0x0],1 [USHORT] [0x4],2 [BBOOL] [0x6]
 505,20784,180,false
 506,21085,300,false
 507,21086,300,false
-508,0,0,false
-509,0,0,false
-510,0,0,false
-511,0,0,false
+508,22417,320,false
+509,22418,320,false
+510,22419,320,false
+511,22420,320,false
 512,0,0,false
 513,0,0,false
 514,0,0,false

@@ -212,3 +212,13 @@ Index,0 [STRING] [0x0],1 [BBOOL] [0x4]
 425,"LFGLogSettings",true
 426,"TreasureHighLow",true
 431,"ManeuversArmorBoarding",true
+435,"ContentsReplaySetting",true
+436,"PvpCalendar",true
+437,"PvPTeam",true
+438,"PvPTeamCrestEditor",true
+439,"PvPTeamCrestColor",true
+440,"PvPTeamCrestSymbolColor",true
+441,"EurekaElementalEdit",true
+442,"ContentMemberList",true
+443,"TeleportHousingFriend",true
+444,"ReplayReadyCheck",true

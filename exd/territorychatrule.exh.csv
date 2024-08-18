@@ -8,3 +8,4 @@ Index,0 [BBOOL] [0x6],1 [UBYTE] [0x0],2 [UBYTE] [0x1],3 [UBYTE] [0x2],4 [UBYTE] 
 6,true,2,2,0,0,2,2
 7,true,2,2,0,0,2,2
 8,false,2,2,2,0,2,2
+9,true,0,0,0,0,0,2

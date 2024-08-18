@@ -26,7 +26,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [STRING] [0x8]
 24,"任务情报","ToDoList","todo"
 25,"道具帮助","ItemHelp","item"
 26,"技能帮助","ActionHelp","action"
-27,"极限槽","LimitBreak","limit"
+27,"极限槽","LimitGauge","limit"
 28,"经验值栏","ExpBar","exp"
 29,"状态效果","BuffDebuffStatus","buff"
 30,"团队列表1","AllianceList1","alist1"
