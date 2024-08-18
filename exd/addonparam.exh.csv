@@ -160,3 +160,16 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 319,"Orchestrion",50
 320,"BeginnerChatList",50
 321,"BeginnerChatKick",50
+323,"HudLayoutSetCopy",80
+326,"ConfigPartyListRoleSort",80
+327,"ItemSearchSetting",85
+328,"RecommendEquip",80
+329,"YKWNote",50
+331,"AWGrowthFragTrade",50
+332,"AWMakingSpiritGrow",50
+333,"PvpActionSet",80
+335,"RaidFinder",50
+336,"RaidFinderHelp",80
+337,"DeepDungeonInspect",50
+339,"DeepDungeonStatus",50
+340,"DeepDungeonSaveData",50

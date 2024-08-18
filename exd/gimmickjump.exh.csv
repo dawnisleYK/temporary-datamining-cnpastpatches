@@ -1,11 +1,13 @@
-Index,0 [USHORT] [0x8],1 [BYTE] [0xA],2 [UINT] [0x0],3 [UINT] [0x4],4 [BBOOL] [0xB]
-0,0,0,0,0,false
-1,0,10,0,0,false
-2,0,15,0,0,false
-3,500,10,218,219,true
-4,0,20,0,0,false
-5,0,10,218,219,false
-6,0,30,0,0,false
-7,0,10,218,219,false
-8,500,0,218,219,true
-9,0,26,218,219,false
+Index,0 [USHORT] [0x8],1 [BYTE] [0xA],2 [UINT] [0x0],3 [UINT] [0x4],4 [BBOOL] [0xB],5 [BBOOL] [0xB]
+0,0,0,0,0,false,false
+1,0,10,0,0,false,false
+2,0,15,0,0,false,false
+3,500,10,218,219,true,false
+4,0,20,0,0,false,false
+5,0,10,218,219,false,false
+6,0,30,0,0,false,false
+7,0,10,218,219,false,false
+8,500,0,218,219,true,false
+9,0,26,218,219,false,false
+10,0,0,0,0,false,true
+11,0,0,4856,4857,false,false
