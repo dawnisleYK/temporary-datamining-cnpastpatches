@@ -15,7 +15,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5],3 [BBOOL] [0x5]
 13,"大地使者",2,true,false
 14,"对战",2,true,false
 15,"评价",2,true,false
-16,"",0,false,false
+16,"金碟游乐场",2,true,false
 17,"整体",4,true,false
 18,"货币",4,true,false
 19,"分解",4,true,false

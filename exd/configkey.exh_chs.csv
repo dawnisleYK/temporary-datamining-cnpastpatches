@@ -265,6 +265,7 @@ Index,0 [STRING] [0x4],1 [UBYTE] [0xA],2 [UBYTE] [0xB],3 [BBOOL] [0xD],4 [UBYTE]
 293,"MENU_SYSCONFIG",255,255,false,3,44,"系统设置"
 294,"MENU_LOGCOLOR",255,255,false,3,45,"信息颜色"
 295,"MENU_PADCUSTOMIZE",255,255,false,3,46,"自定义按键"
+296,"MENU_GOLD_SAUCER",255,255,false,3,11,"金碟游乐场"
 297,"",255,255,false,0,0,""
 298,"",255,255,false,0,0,""
 299,"",255,255,false,0,0,""
