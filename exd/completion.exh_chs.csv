@@ -596,6 +596,8 @@ Index,0 [UINT] [0xC],1 [STRING] [0x8],2 [STRING] [0x0],3 [STRING] [0x4]
 1474,18,"","吸引","xiyin"
 1475,18,"","冰封的石文","bingfengdeshiwen"
 1476,18,"","情报值","qingbaozhi"
+1477,18,"","狼心","langxin"
+1478,18,"","狼心包","langxinbao"
 1500,19,"@","【在线状态】","zaixianzhuangtai."
 1501,19,"","在线","zaixian"
 1502,19,"","离开","likai"

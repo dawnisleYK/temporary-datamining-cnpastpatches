@@ -132,7 +132,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 131,"死亡箭雨效果提高","下次发动死亡箭雨不会消耗技力",12607,0,1,16,0,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 132,"连珠箭效果提高","下次发动连珠箭不会消耗技力",10362,0,1,16,0,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 133,"敏捷之歌","移动速度提高，对一定范围内的队友也会附加同样效果进入战斗状态后效果消失",10358,0,1,16,0,false,false,false,false,false,false,true,true,1,true,0,true,0,false,false,0,0,false
-134,"敏捷之歌","移动速度提高进入战斗状态后效果消失",10357,0,1,16,0,false,false,false,false,false,false,false,true,0,true,0,true,0,false,false,0,0,false
+134,"敏捷之歌","移动速度提高，进入战斗状态后效果消失",10357,0,1,16,0,false,false,false,false,false,false,false,true,0,true,0,true,0,false,false,0,0,false
 135,"贤者的叙事谣","对一定范围内的队友附加魔力持续恢复效果，自身攻击所造成的伤害降低，并且会持续消耗魔力",12603,0,1,16,0,false,false,false,false,false,false,true,true,1,true,0,true,0,false,false,0,0,false
 136,"贤者的叙事谣","魔力持续恢复",12602,0,1,16,0,false,false,false,false,false,false,false,true,0,true,0,true,0,false,false,0,0,false
 137,"军神的赞美歌","对一定范围内的队友附加技力持续恢复效果，自身攻击所造成的伤害降低，并且会持续消耗魔力",12605,0,1,16,0,false,false,false,false,false,false,true,true,1,true,0,true,0,false,false,0,0,false
@@ -195,8 +195,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 195,"强力守护","减轻所受到的伤害",16401,0,1,16,0,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 196,"终极堡垒","减轻所受到的伤害",16401,0,1,16,0,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 197,"火棘屏障","能够发动火属性反击",15508,0,1,16,0,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
-198,"冰棘屏障","能够发动冰属性反击偶尔会追加减速效果",15501,0,1,16,0,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
-199,"电棘屏障","能够发动雷属性反击偶尔会追加眩晕效果",15502,0,1,16,0,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
+198,"冰棘屏障","能够发动冰属性反击，偶尔会追加减速效果",15501,0,1,16,0,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
+199,"电棘屏障","能够发动雷属性反击，偶尔会追加眩晕效果",15502,0,1,16,0,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
 200,"物理受伤加重","受到物理攻击的伤害增加",18001,4,2,17,0,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0,false
 201,"眩晕","无法做出任何行动",15004,0,2,3,0,true,false,true,false,false,false,true,true,100,true,0,false,0,false,false,0,0,false
 202,"受伤加重","受到攻击的伤害增加",17101,8,2,17,0,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0,false
@@ -1129,7 +1129,15 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1146,"斗志","斗志激昂，攻击所造成的伤害提高，体力逐渐恢复",15755,0,1,16,0,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
 1147,"影之脚镣","被影之脚镣铐住，移动速度降低，体力逐渐减少",15756,0,2,4,134,false,false,false,false,false,false,false,false,200,true,1,false,0,false,false,0,0,false
 1148,"影之手","长出了影之手",15757,0,1,16,0,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
+1149,"狼心包","受到狼心包的效果影响，体力与魔力逐渐恢复，移动速度提高，自动攻击间隔缩短，同时战技与魔法的咏唱及复唱时间也会缩短",15752,0,1,0,0,false,false,false,false,false,false,false,false,100,true,0,true,0,false,false,0,0,false
 1150,"冻结","身体被冻结无法行动，体力逐渐流失",15637,0,2,17,127,true,false,true,false,false,false,true,true,100,true,0,false,0,false,false,0,0,false
+1154,"妖兽王的加护","受到了妖兽王的加护",15760,0,1,16,0,false,false,false,false,false,false,true,true,199,true,0,false,0,false,false,0,0,false
+1155,"以太强化","以太得到强化，攻击所造成的伤害提高",15761,0,1,16,0,false,false,false,false,false,false,true,true,199,true,0,false,0,false,false,0,0,false
+1156,"魔法伤害提高","魔法攻击所造成的伤害提高",18481,16,1,16,0,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
 1157,"水属性耐性大幅降低","对抗水属性的耐性有显著降低",15698,0,2,17,0,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1158,"战气","察觉到了战斗的气息，战斗力得到提升",15762,0,1,16,0,false,false,false,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
 1159,"无尽痛苦刻印","阵阵剧痛从刻印传来，体力逐渐减少，受到攻击的伤害增加",15643,0,2,17,0,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
+1160,"弱化试剂","被投用了弱化试剂，体力逐渐减少",15517,0,2,1,0,false,false,false,false,false,false,false,false,10,true,0,false,0,false,false,0,0,false
+1161,"ダメージ上昇","与ダメージが上昇した状態。",15519,0,1,16,0,false,false,false,false,false,false,true,true,1,true,0,false,0,false,false,0,0,false
 1162,"无尽痛苦刻印","阵阵剧痛从刻印传来，体力逐渐减少，受到攻击的伤害增加",15643,0,2,17,0,false,false,false,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
+1266,"强效透明","身体变得透明，不会受到怪物攻击",16209,0,1,16,0,false,false,false,false,false,false,false,false,2,true,0,false,0,false,true,0,0,false

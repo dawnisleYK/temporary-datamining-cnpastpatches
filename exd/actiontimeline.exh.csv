@@ -5047,3 +5047,5 @@ Index,0 [UBYTE] [0x4],1 [UBYTE] [0x5],2 [BBOOL] [0xE],3 [UBYTE] [0x6],4 [UBYTE] 
 5342,0,3,false,0,0,0,"mon_sp/gimmick/z2r3_boss4_gimmick03",0,0,0,0,0,false,false,false,false,true
 5347,0,3,false,0,0,0,"mon_sp/gimmick/a2fg_boss_gimmick06",0,0,0,0,0,false,false,false,false,true
 5348,0,0,false,0,0,0,"mon_sp/gimmick/a2fg_boss_gimmick06_hit",0,0,0,0,0,false,false,false,false,true
+5349,0,3,false,0,0,0,"mon_sp/gimmick/a2fh_boss_gimmick02",0,0,0,0,0,false,false,false,false,true
+5350,0,0,false,0,0,0,"mon_sp/gimmick/a2fh_boss_gimmick02_hit",0,0,0,0,0,false,false,false,false,true
