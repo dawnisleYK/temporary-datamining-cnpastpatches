@@ -1,4 +1,4 @@
-Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [INT] [0x8],3 [INT] [0xC],4 [UBYTE] [0x10],5 [UBYTE] [0x11]
+Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [INT] [0x8],3 [INT] [0xC],4 [USHORT] [0x10],5 [UBYTE] [0x12]
 0,"","",0,0,0,0
 1,"","",0,0,0,0
 2,"离开","让搭档离开",4001,14001,18,1

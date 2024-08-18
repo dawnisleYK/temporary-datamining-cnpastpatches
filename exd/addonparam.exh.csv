@@ -248,3 +248,13 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 262,"TripleTriadRanking",50
 266,"ShopExchangeCoin",50
 268,"RelicMagicite",50
+269,"NeedGreedTargeting",80
+270,"ContentsFinderSetting",80
+272,"CompanyCraftRecipeNoteBook",50
+274,"AirShipExploration",50
+277,"CompanyCraftSupply",85
+278,"AetherCurrent",50
+284,"MasterPieceSupply",85
+287,"FrontlineRecordDetail",50
+288,"Concentration",50
+289,"Mobhunt2",50

@@ -66,5 +66,22 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [UBYTE] [0x6],4 [UBYTE]
 64,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>将<value>号转轴上的“<ref:Item>”撤了下来。",16,14,1,5,11
 65,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>从<value>号转轴上获取了“<ref:Item>”。",16,14,1,5,11
 66,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>转换了“<ref:Item>”，将“<ref:CompanyAction>”储备了下来。",16,14,1,4,9
-67,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>が地下工房を増築しました。",16,0,0,5,11
-68,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>が地下工房を撤去しました。",16,0,0,5,11
+67,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>增建了部队工房。",16,0,0,8,15
+68,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>拆除了部队工房。",16,0,0,8,15
+69,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>使用部队合建设备启动了“<ref:Item>”的制作工程。",16,14,0,8,15
+70,"推进“<ref:Item>”工程所必须的素材已经全部准备就绪。",0,14,0,8,15
+71,"“<ref:Item>”<switch:的工程有所进展。/的工程取得很大进展，合建设备的状态变为“良好”。/的工程取得极大进展，合建设备的状态变为“最佳”。>",0,14,1,8,15
+72,"<switch:工程有所进展/工程取得很大进展/工程取得极大进展>，<ref:Item>制作完成。",0,14,1,8,15
+73,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>从部队合建设备中回收了“<ref:Item>”。",16,14,0,8,15
+74,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>中断了部队合建设备中的制作工程。",16,0,0,8,15
+75,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>绘制出了“<ref:CompanyCraftDraft>”。",16,0,1,8,15
+76,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>将第<value>架飞空艇登记为“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”。",16,15,1,9,14
+77,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>将第<value>架飞空艇的名字更改为“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”。",16,15,1,9,14
+78,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>拆解了登记为“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”的第<value>架飞空艇。",16,15,1,9,14
+79,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>派出了飞空艇“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”去进行探索。",16,15,0,9,14
+80,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>中止了飞空艇“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”的探索。",16,15,0,9,14
+81,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>接受了“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”探索完成的报告。",16,15,0,9,14
+82,"飞空艇“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”升为<value>级。",16,15,1,9,14
+83,"通过飞空艇“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”的探索，工房可以登记第<value>架飞空艇了。",16,15,1,9,14
+84,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>消耗<value>点部队战绩换取了<value>个“<ref:Item>”。",16,22,1,1,0
+85,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>提供了<if(INT: 4 == 2 ) {} else {<value>次}>必需素材“<ref:Item>”，贡献了60%以上的该素材以制作“<ref:Item>”。",16,22,1,8,15

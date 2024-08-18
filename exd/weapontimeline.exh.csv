@@ -78,3 +78,14 @@ Index,0 [STRING] [0x0],1 [SHORT] [0x4]
 76,"weapon/ability/2gl_astro/glb_card_off",-1
 77,"weapon/magic/glb_card_fst_loop",-1
 78,"weapon/weeklylot/shot",-1
+79,"weapon/bow_action/bow_start",-1
+80,"weapon/bow_action/bow_loop",-1
+81,"weapon/bow_action/bow_shot",-1
+82,"weapon/gun_action/reload",1
+83,"weapon/gun_action/attach",1
+84,"weapon/limitbreak/lbk_machine_start",-1
+85,"weapon/limitbreak/lbk_machine_loop",-1
+86,"weapon/limitbreak/lbk_machine_lv3",-1
+87,"weapon/limitbreak/lbk_scholar_lv3",-1
+88,"weapon/gun_action/cocking",1
+89,"weapon/gun_action/attach_hide_loop",-1

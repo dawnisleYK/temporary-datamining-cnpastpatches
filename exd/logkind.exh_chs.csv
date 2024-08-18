@@ -1,102 +1,102 @@
-Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [STRING] [0x8],3 [UBYTE] [0xC]
-0,"<color #CCCCCC><value></color>","None","",0
-1,"<color #CCCCCC><value></color>","Debug","",0
-2,"<color #FF7F7F><value></color>","紧急消息","游戏运营组向当前服务器内的所有用户发布的紧急通知。",0
-3,"<color #B38CFF><value></color>","一般消息","游戏运营组向当前服务器内的所有用户发布的一般通知。",0
-4,"","","",0
-5,"","","",0
-6,"","","",0
-7,"","","",0
-8,"","","",0
-9,"","","",0
-10,"<color?><value>：<value></color>","说话","斯考尔：无所谓了……",1
-11,"<color?><value>：<value></color>","喊话","巴兹：有人一起冒险吗？",1
-12,"<color?>>><value>：<value></color>","悄悄话",">> 克劳德： 你这衣服不错。<br>蒂法 >> 克劳德，眼睛看哪呢？",1
-13,"<color?><value> >> <value></color>","Tell_Receive","",0
-14,"<color?>(<value>) <value></color>","小队","(塞西尔) 你们都在哪里？",1
-15,"<color?>(<value>) <value></color>","团队","",1
-16,"<color?>[1]<<value>> <value></color>","通讯贝 [1]","[1]<莎拉> 可以的话……请一直留在……",1
-17,"<color?>[2]<<value>> <value></color>","通讯贝 [2]","[2]<敏武> 我能够看到你们的命运。",1
-18,"<color?>[3]<<value>> <value></color>","通讯贝 [3]","[3]<艾丽娅> 拜托你们了……驱除黑暗……为这个世界……带回和平……",1
-19,"<color?>[4]<<value>> <value></color>","通讯贝 [4]","[4]<泰拉> 我回忆起来了……被我忘记的咒文！",1
-20,"<color?>[5]<<value>> <value></color>","通讯贝 [5]","[5]<加拉夫> 太了不起了！瞧瞧咱这惊人的记忆力！",1
-21,"<color?>[6]<<value>> <value></color>","通讯贝 [6]","[6]<洛克> 你这混蛋，一而再、再而三地来捣乱！",1
-22,"<color?>[7]<<value>> <value></color>","通讯贝 [7]","[7]<阿尔芭> 我美丽的肌肤都被沙漠风化了……",1
-23,"<color?>[8]<<value>> <value></color>","通讯贝 [8]","[8]<西奥多> 我要凭借自己的力量前进！",1
-24,"<color?>[部队]<<value>> <value></color>","部队","",1
-25,"","","",0
-26,"","","",0
-27,"","","",0
-28,"<color?><value><value></color>","自定义情感表现","莉诺雅在展示自己的存在。",1
-29,"<color?><value></color>","情感表现","塞丽丝拍了拍自己的脸。",1
-30,"<color?><value>：<value></color>","呼喊","",1
-31,"","","",0
-32,"","","",0
-33,"","","",0
-34,"","","",0
-35,"","","",0
-36,"","","",0
-37,"","","",0
-38,"","","",0
-39,"","","",0
-40,"","","",0
-41,"<color?><value></color>","造成伤害","斯考尔发动攻击 ⇒ 魔界花受到了9999点伤害。",2
-42,"<color?><value></color>","攻击落空","斯考尔发动攻击 ⇒ 失误了！",2
-43,"<color?><value></color>","发动技能","斯考尔正在咏唱“核爆”。",2
-44,"<color?><value></color>","使用道具","斯考尔正在使用“圣灵药”。",2
-45,"<color?><value></color>","进行恢复","  ⇒ 斯考尔恢复了9999点体力。",2
-46,"<color?><value></color>","附加强化状态","  ⇒ 对斯考尔附加了“护盾”的效果。",2
-47,"<color?><value></color>","附加弱化状态","  ⇒ 对魔界花附加了“失明”的效果。",2
-48,"<color?><value></color>","","",0
-49,"<color?><value></color>","","",0
-50,"","","",0
-51,"","","",0
-52,"","","",0
-53,"","","",0
-54,"","","",0
-55,"","","",0
-56,"<color?><value></color>","默语","默语",3
-57,"<color?><value></color>","系统信息","向克劳德发送了入队邀请。",3
-58,"<color?><value></color>","错误信息","向克劳德发送悄悄话失败。",3
-59,"<color?><value></color>","战斗系统信息","魔界花召唤了同伴 ⇒ 又有2个敌人加入战斗！",3
-60,"<color?><value></color>","采集系统信息","这片地域好像没有矿脉及石场。",3
-61,"<color?><value> : <value></color>","非玩家角色对话","巴德龙：有什么我可以帮你的？",3
-62,"<color?><value></color>","掉落品信息","斯考尔得到了玉者之剑。",3
-63,"","","",0
-64,"<color?><value></color>","成长信息","等级提升了！  斯考尔升到了51级。",3
-65,"<color?><value></color>","战利品信息","斯考尔在需求条件下对“玉者之剑”掷出了1点。",3
-66,"<color?><value></color>","制作信息","斯考尔制作“英雄之药”成功！",3
-67,"<color?><value></color>","采集信息","斯考尔开始了采掘作业。",3
-68,"<color?><value>：<value></color>","非玩家角色通知","布莱蒙达：我是在这一带行商的旅行商人。",3
-69,"<color?><value></color>","部队通知","",3
-70,"<color?><value></color>","部队成员上线通知","",0
-71,"<color?><value></color>","市场出售报告","",0
-72,"<color?><value></color>","パーティ募集の新着情報","",0
-73,"<color?><value></color>","マーカー設定情報","",0
-74,"<color?><value></color>","ダイスの出目","",0
-75,"","","",0
-76,"","","",0
-77,"","","",0
-78,"","","",0
-79,"","","",0
-80,"<color?>[游戏管理员]<value> >> <value></color>","GMからのTell","",0
-81,"<color?>[游戏管理员]<value>：<value></color>","GMからのSay","",0
-82,"<color?>[游戏管理员]<value>：<value></color>","GMからのShout","",0
-83,"<color?>[游戏管理员]<value>：<value></color>","GMからのYell","",0
-84,"<color?>([游戏管理员]<value>) <value></color>","GMからのParty","",0
-85,"<color?>[部队]<[游戏管理员]<value>> <value></color>","GMからのFreeCompanyチャット","",0
-86,"<color?>[1]<[游戏管理员]<value>> <value></color>","GMからのLS1チャット","",0
-87,"<color?>[2]<[游戏管理员]<value>> <value></color>","GMからのLS2チャット","",0
-88,"<color?>[3]<[游戏管理员]<value>> <value></color>","GMからのLS3チャット","",0
-89,"<color?>[4]<[游戏管理员]<value>> <value></color>","GMからのLS4チャット","",0
-90,"<color?>[5]<[游戏管理员]<value>> <value></color>","GMからのLS5チャット","",0
-91,"<color?>[6]<[游戏管理员]<value>> <value></color>","GMからのLS6チャット","",0
-92,"<color?>[7]<[游戏管理员]<value>> <value></color>","GMからのLS7チャット","",0
-93,"<color?>[8]<[游戏管理员]<value>> <value></color>","GMからのLS8チャット","",0
-94,"","","",0
-95,"","","",0
-96,"","","",0
-97,"","","",0
-98,"","","",0
-99,"","","",0
-100,"","","",0
+Index,0 [UBYTE] [0xC],1 [STRING] [0x0],2 [STRING] [0x4],3 [STRING] [0x8],4 [UBYTE] [0xD]
+0,0,"<color #CCCCCC><value></color>","None","",0
+1,0,"<color #CCCCCC><value></color>","Debug","",0
+2,0,"<color #FF7F7F><value></color>","紧急消息","",0
+3,0,"<color #B38CFF><value></color>","一般消息","",0
+4,0,"","","",0
+5,0,"","","",0
+6,0,"","","",0
+7,0,"","","",0
+8,0,"","","",0
+9,0,"","","",0
+10,0,"<color?><value>：<value></color>","说话","",1
+11,0,"<color?><value>：<value></color>","喊话","",1
+12,0,"<color?>>><value>：<value></color>","悄悄话","",1
+13,0,"<color?><value> >> <value></color>","Tell_Receive","",0
+14,0,"<color?>(<value>) <value></color>","小队","",1
+15,0,"<color?>(<value>) <value></color>","团队","",1
+16,0,"<color?>[1]<<value>> <value></color>","通讯贝 [1]","",1
+17,0,"<color?>[2]<<value>> <value></color>","通讯贝 [2]","",1
+18,0,"<color?>[3]<<value>> <value></color>","通讯贝 [3]","",1
+19,0,"<color?>[4]<<value>> <value></color>","通讯贝 [4]","",1
+20,0,"<color?>[5]<<value>> <value></color>","通讯贝 [5]","",1
+21,0,"<color?>[6]<<value>> <value></color>","通讯贝 [6]","",1
+22,0,"<color?>[7]<<value>> <value></color>","通讯贝 [7]","",1
+23,0,"<color?>[8]<<value>> <value></color>","通讯贝 [8]","",1
+24,0,"<color?>[部队]<<value>> <value></color>","部队","",1
+25,0,"","","",0
+26,0,"","","",0
+27,0,"","","",0
+28,0,"<color?><value><value></color>","自定义情感表现","",1
+29,50,"<color?><value></color>","情感表现","",1
+30,0,"<color?><value>：<value></color>","呼喊","",1
+31,0,"","","",0
+32,0,"","","",0
+33,0,"","","",0
+34,0,"","","",0
+35,0,"","","",0
+36,0,"","","",0
+37,0,"","","",0
+38,0,"","","",0
+39,0,"","","",0
+40,0,"","","",0
+41,50,"<color?><value></color>","造成伤害","",2
+42,50,"<color?><value></color>","攻击落空","",2
+43,50,"<color?><value></color>","发动技能","",2
+44,50,"<color?><value></color>","使用道具","",2
+45,50,"<color?><value></color>","进行恢复","",2
+46,50,"<color?><value></color>","附加强化状态","",2
+47,50,"<color?><value></color>","附加弱化状态","",2
+48,50,"<color?><value></color>","","",0
+49,50,"<color?><value></color>","","",0
+50,0,"","","",0
+51,0,"","","",0
+52,0,"","","",0
+53,0,"","","",0
+54,0,"","","",0
+55,0,"","","",0
+56,0,"<color?><value></color>","默语","",3
+57,0,"<color?><value></color>","系统信息","",3
+58,50,"<color?><value></color>","错误信息","",3
+59,0,"<color?><value></color>","战斗系统信息","",3
+60,0,"<color?><value></color>","采集系统信息","",3
+61,0,"<color?><value> : <value></color>","非玩家角色对话","",3
+62,0,"<color?><value></color>","掉落品信息","",3
+63,0,"","","",0
+64,50,"<color?><value></color>","成长信息","",3
+65,0,"<color?><value></color>","战利品信息","",3
+66,50,"<color?><value></color>","制作信息","",3
+67,50,"<color?><value></color>","采集信息","",3
+68,0,"<color?><value>：<value></color>","非玩家角色通知","",3
+69,0,"<color?><value></color>","部队通知","",3
+70,0,"<color?><value></color>","部队成员上线通知","",0
+71,0,"<color?><value></color>","市场出售报告","",0
+72,0,"<color?><value></color>","パーティ募集の新着情報","",0
+73,0,"<color?><value></color>","マーカー設定情報","",0
+74,0,"<color?><value></color>","ダイスの出目","",0
+75,0,"","","",0
+76,0,"","","",0
+77,0,"","","",0
+78,0,"","","",0
+79,0,"","","",0
+80,0,"<color?>[游戏管理员]<value> >> <value></color>","GMからのTell","",0
+81,0,"<color?>[游戏管理员]<value>：<value></color>","GMからのSay","",0
+82,0,"<color?>[游戏管理员]<value>：<value></color>","GMからのShout","",0
+83,0,"<color?>[游戏管理员]<value>：<value></color>","GMからのYell","",0
+84,0,"<color?>([游戏管理员]<value>) <value></color>","GMからのParty","",0
+85,0,"<color?>[部队]<[游戏管理员]<value>> <value></color>","GMからのFreeCompanyチャット","",0
+86,0,"<color?>[1]<[游戏管理员]<value>> <value></color>","GMからのLS1チャット","",0
+87,0,"<color?>[2]<[游戏管理员]<value>> <value></color>","GMからのLS2チャット","",0
+88,0,"<color?>[3]<[游戏管理员]<value>> <value></color>","GMからのLS3チャット","",0
+89,0,"<color?>[4]<[游戏管理员]<value>> <value></color>","GMからのLS4チャット","",0
+90,0,"<color?>[5]<[游戏管理员]<value>> <value></color>","GMからのLS5チャット","",0
+91,0,"<color?>[6]<[游戏管理员]<value>> <value></color>","GMからのLS6チャット","",0
+92,0,"<color?>[7]<[游戏管理员]<value>> <value></color>","GMからのLS7チャット","",0
+93,0,"<color?>[8]<[游戏管理员]<value>> <value></color>","GMからのLS8チャット","",0
+94,0,"","","",0
+95,0,"","","",0
+96,0,"","","",0
+97,0,"","","",0
+98,0,"","","",0
+99,0,"","","",0
+100,0,"","","",0

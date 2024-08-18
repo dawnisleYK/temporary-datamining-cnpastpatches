@@ -36,7 +36,12 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4]
 34,"chn_m128kusari_pcf",0
 35,"chn_genryu0f",0
 36,"chn_m102kusari0f",0
-37,"",0
-38,"",0
-39,"",0
-40,"",0
+37,"chn_m055_64page0f",0
+38,"chn_magnet0c",0
+39,"chn_bismarck01h",0
+40,"chn_bismarck02h",0
+41,"chn_d1007_01f",0
+42,"chn_jobast0f",0
+43,"",0
+44,"",0
+45,"",0

@@ -1,0 +1,9 @@
+Index,0 [UINT] [0x0],1 [UBYTE] [0x3C],2 [UINT] [0x4],3 [UINT] [0x20],4 [BOOL] [0x43],5 [UBYTE] [0x3D],6 [UINT] [0x8],7 [UINT] [0x24],8 [BOOL] [0x44],9 [UBYTE] [0x3E],10 [UINT] [0xC],11 [UINT] [0x28],12 [BOOL] [0x45],13 [UBYTE] [0x3F],14 [UINT] [0x10],15 [UINT] [0x2C],16 [BOOL] [0x46],17 [UBYTE] [0x40],18 [UINT] [0x14],19 [UINT] [0x30],20 [BOOL] [0x47],21 [UBYTE] [0x41],22 [UINT] [0x18],23 [UINT] [0x34],24 [BOOL] [0x48],25 [UBYTE] [0x42],26 [UINT] [0x1C],27 [UINT] [0x38],28 [BOOL] [0x49]
+0,0,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+1,82,0,-1172439039,0,false,0,109117440,196608,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+2,84,0,1583742977,0,false,0,105971712,196608,false,2,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+3,89,0,-579469311,0,false,0,108658688,16711680,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+4,89,0,-2140078080,0,false,0,65536,0,false,3,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+5,88,0,-1408040960,0,false,0,65536,0,false,3,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+6,89,0,-2115043328,0,false,0,327680,0,false,3,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+7,90,0,627638273,0,false,0,108658688,16711680,false,2,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false

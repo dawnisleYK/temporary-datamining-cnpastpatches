@@ -8,3 +8,4 @@ Index,0 [UINT] [0x60],1 [STRING] [0x5C],2 [BBOOL] [0x64],3 [STRING] [0x0],4 [STR
 6,0,"WarpHousingEnterHouse",true,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","是","否"
 7,0,"WarpHousingExitHouse",true,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","是","否"
 8,0,"WarpWeddingPlaceDesk",false,"QUEST_WEDDING","ITEM_CHILD_TICKET","","","","","","","","",67114,8699,0,0,0,0,0,0,0,0,"","是","否"
+9,0,"WarpInnIshgard",true,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
