@@ -1305,7 +1305,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1303,"原初的解放","不受眩晕、睡眠、止步、加重、减速、沉默、击退的效果影响",12556,0,1,16,29,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1304,"死斗","无法自由移动，受到伤害也不会解除<br>另外，除特定攻击之外其他所有对自身发动的攻击均无法令体力减少到1以下",10255,0,2,17,0,false,true,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,31,false
 1305,"死斗","无法自由移动，受到伤害也不会解除",14824,0,2,17,0,false,true,false,false,false,false,true,false,false,0,false,0,false,0,false,false,0,0,false
-1306,"岿然独存","受到攻击的伤害增加<br>该效果不适用于奋战技",13105,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1306,"岿然独存","受到攻击的伤害增加",13105,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1307,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1308,"至黑之夜","抵消一定伤害",13118,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,12,false
 1309,"破碎拳","受到持续伤害，同时受到附加此效果的玩家攻击的伤害增加",10218,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
@@ -1328,7 +1328,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1326,"剧毒菌","受到持续伤害",12682,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1327,"瘴暍","受到持续伤害，同时自身所受的治疗魔法效果降低",12683,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1328,"感电","雷属性持续伤害，体力逐渐流失",19041,16,2,17,0,false,false,false,false,false,false,false,false,false,10,false,0,false,0,false,false,0,0,false
-1329,"凋零","受到攻击的伤害增加<br>该效果不适用于奋战技",14812,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1329,"凋零","受到攻击的伤害增加",14812,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1330,"再生","体力会随时间逐渐恢复",12626,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1331,"鼓舞","抵消一定伤害",12801,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,12,false
 1332,"反复无常","吉祥天女爆发了反复无常的神性",15805,0,1,16,0,false,false,false,false,false,false,false,true,true,200,false,0,false,0,false,false,0,0,false
@@ -1370,7 +1370,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1368,"安魂祈祷","魔法攻击所造成的伤害及发动治疗魔法的治疗量提高",12514,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1369,"安魂祈祷","魔法攻击所造成的伤害及发动治疗魔法的治疗量提高，并且咏唱魔法时不会消耗魔力",12514,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,6,false,0,false,false,0,19,false
 1370,"战女神之怒","发动攻击所造成的伤害及发动治疗魔法的治疗量降低",14836,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1371,"寒风斧","受到攻击的伤害增加<br>该效果不适用于奋战技",14837,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1371,"寒风斧","受到攻击的伤害增加",14837,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1372,"强力斩","自身所受的治疗魔法效果降低",14838,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1373,"不完全形态","没有完全实体化",15798,0,2,17,0,false,false,false,false,false,false,false,true,true,100,false,0,false,0,false,true,0,0,false
 1374,"右手目标","被选为右手的攻击目标",15800,0,2,17,0,false,false,false,false,false,false,false,false,false,200,false,0,false,0,false,false,0,0,false
@@ -1405,9 +1405,9 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1403,"光速","咏唱魔法不需要咏唱时间，同时消耗的魔力减半",13220,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1404,"神祝祷","抵消一定伤害",12632,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,12,false
 1405,"封技","攻击所造成的伤害降低",13222,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1406,"连环计","受到攻击的伤害增加<br>该效果不适用于奋战技",12809,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1406,"连环计","受到攻击的伤害增加",12809,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1407,"纷乱箭","自身发动的下一次战技会变为多次攻击",10356,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1408,"微型陨石","受到攻击的伤害增加<br>该效果不适用于奋战技",14843,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1408,"微型陨石","受到攻击的伤害增加",14843,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1409,"终端速度","自身所受的治疗魔法效果降低",14844,0,2,17,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1410,"反复无常","吉祥天女爆发了反复无常的神性",15805,0,1,16,0,false,false,false,false,false,false,false,true,true,200,false,0,false,0,false,false,0,0,false
 1411,"60级经验加速","60级以下获得的经验值将大幅提高",16227,0,1,16,0,false,false,false,false,false,false,false,true,true,0,true,0,true,0,false,false,0,0,false
