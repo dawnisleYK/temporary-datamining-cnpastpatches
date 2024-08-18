@@ -106,7 +106,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x8],3 [BBOOL] [0xA],4 [BBOOL
 104,"m0280sp02o0t","",2,true,false,0
 105,"gl_fan030_1bf","gl_fan030_1bpf",3,true,false,0
 106,"manta_mizubakudan1h","",2,true,false,0
-107,"","",0,true,false,0
-108,"","",0,true,false,0
-109,"","",0,true,false,0
-110,"","",0,true,false,0
+107,"gl_fan180_1bf","",3,true,false,0
+108,"gl_sircle_1005bf","",2,true,false,0
+109,"m0311sp06o0c","",2,true,false,0
+110,"m0257gimmick0h","",2,true,false,0

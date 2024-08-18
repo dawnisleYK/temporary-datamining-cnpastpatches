@@ -78,5 +78,15 @@ Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [BBOOL] [0x5],3 [UBYTE] [0x2],4 [UBYTE] 
 76,30,30,true,0,0,0,true
 77,16,25,true,0,0,0,true
 78,20,40,true,0,3,0,true
-79,0,0,true,0,0,0,true
-80,0,0,true,0,0,0,true
+79,50,50,true,0,3,0,true
+80,15,30,true,0,3,0,true
+81,5,10,true,0,3,0,true
+82,17,40,true,0,0,0,true
+83,0,0,true,0,0,0,true
+84,0,0,true,0,0,0,true
+85,0,0,true,0,0,0,true
+86,0,0,true,0,0,0,true
+87,0,0,true,0,0,0,true
+88,0,0,true,0,0,0,true
+89,0,0,true,0,0,0,true
+90,0,0,true,0,0,0,true

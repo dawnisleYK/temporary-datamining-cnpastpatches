@@ -90,3 +90,4 @@ Index,0 [STRING] [0x0],1 [SHORT] [0x4]
 88,"weapon/gun_action/cocking",1
 89,"weapon/gun_action/attach_hide_loop",-1
 90,"weapon/gauntlet_action/cancel_bend_wrist",-1
+91,"weapon/emote/battle_emote_02_close_open",-1

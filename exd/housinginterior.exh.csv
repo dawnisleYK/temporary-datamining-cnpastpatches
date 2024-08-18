@@ -78,3 +78,5 @@ Index,0 [UBYTE] [0x4],1 [UBYTE] [0x5],2 [UBYTE] [0x6],3 [STRING] [0x0]
 65612,26,10,4,"bgcommon/hou/dyna/mat/fl/0026/material/rom_fl_20026a.mtrl"
 65613,27,10,4,"bgcommon/hou/dyna/mat/fl/0027/material/rom_fl_20027a.mtrl"
 65614,28,10,5,"bgcommon/hou/dyna/mat/fl/0028/material/rom_fl_20028a.mtrl"
+65615,28,9,0,"bgcommon/hou/dyna/mat/wl/0028/material/rom_wl_20028a.mtrl"
+65616,24,11,0,"bgcommon/hou/dyna/lmp/lp/0024/asset/lmp_s0_m0024.sgb"

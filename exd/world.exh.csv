@@ -364,6 +364,13 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 1157,"GeYongLieGu",0,0,false
 1158,"LiuShaWu",0,0,false
 1159,"BaJianShiQianTing",0,0,false
+1160,"Bahamute",0,0,false
+1161,"Zhushenhuanghun",0,0,false
+1162,"Wangzhezhijian",0,0,false
+1163,"Luxingniao",0,0,false
+1164,"Shenshengcaipansuo",0,0,false
+1165,"Bingtiangong",0,0,false
+1166,"Longchaoshendian",0,0,false
 1536,"contentstest1",0,0,false
 1537,"contentstest2",0,0,false
 1552,"sdocontents1",0,0,false
@@ -508,6 +515,11 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 2067,"KrUnicorn",0,0,false
 2068,"KrRagnarok",0,0,false
 2069,"KrRamia",0,0,false
+2070,"KrNewPublic1",0,0,false
+2071,"KrNewPublic2",0,0,false
+2072,"KrNewPublic3",0,0,false
+2073,"KrNewPublic4",0,0,false
+2074,"KrNewPublic5",0,0,false
 2560,"koreacontents1",0,0,false
 2561,"koreacontents2",0,0,false
 2562,"krcontents1",0,0,false
