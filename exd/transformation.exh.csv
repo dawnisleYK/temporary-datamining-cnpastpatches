@@ -43,6 +43,13 @@ Index,0 [SHORT] [0x14],1 [INT] [0x8],2 [INT] [0xC],3 [USHORT] [0x10],4 [USHORT] 
 41,1533,0,0,0,0,false,0.0,1.0,false,false
 42,1643,0,0,6273,0,false,0.0,1.0,false,true
 43,1644,0,427,6274,0,false,1.1,1.0,false,true
-44,0,0,0,0,0,false,0.0,1.0,false,true
+44,1762,0,0,0,0,false,0.0,1.0,false,false
 45,1659,0,0,0,0,false,0.0,1.0,false,true
 46,1660,0,0,0,0,false,0.0,1.0,false,true
+47,1760,0,0,0,0,false,0.0,1.0,false,true
+48,1657,0,0,0,0,false,0.0,1.0,false,true
+49,1677,0,1235,6871,0,false,0.7,1.0,false,true
+50,1664,0,0,0,0,false,0.0,3.5,false,false
+51,1665,0,0,0,0,false,0.0,2.2,false,false
+52,1666,0,0,0,0,false,0.0,2.6,false,false
+53,652,0,0,0,0,false,0.0,2.0,false,true

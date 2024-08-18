@@ -71,7 +71,6 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 138,"ContentsInfo",50
 141,"Buddy",50
 142,"BuddyEquipList",85
-144,"MateriaAttachedRepair",50
 146,"FreeCompanyChest",50
 147,"FreeCompanyExchange",50
 148,"FreeCompanyProfileEdit",85
@@ -83,7 +82,6 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 154,"FishRecord",85
 155,"ShopExchangeCurrency",50
 156,"ShopExchangeItem",80
-157,"MateriaRepair",50
 160,"CutSceneReplay",50
 172,"BuddyInspect",50
 175,"AllianceMemberList",80
@@ -173,3 +171,19 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 337,"DeepDungeonInspect",50
 339,"DeepDungeonStatus",50
 340,"DeepDungeonSaveData",50
+342,"GcArmyMemberList",80
+343,"GcArmyMenberProfile",0
+344,"GcArmyChangeClass",85
+345,"GcArmyChangeTrait",85
+346,"GcArmyExpedition",50
+347,"GcArmyExpeditionResult",50
+348,"GcArmyTraining",50
+349,"MateriaParameter",85
+351,"CountDownSettingDialog",50
+352,"WeeklyBingo",50
+354,"WeeklyBingoResult",50
+355,"PvPDuelRequest",50
+371,"DeepDungeonScore",50
+372,"DeepDungeonMenu",80
+373,"DeepDungeonResult",80
+374,"ItemAppraisal",80

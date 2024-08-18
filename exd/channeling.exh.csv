@@ -52,6 +52,11 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4]
 50,"chn_elec1f",0
 51,"chn_kusabi_d0t",0
 52,"chn_kusabi_h0t",0
-53,"",0
-54,"",0
-55,"",0
+53,"chn_holm002f",0
+54,"chn_m0354_0c",0
+55,"chn_m344pow01h",0
+56,"chn_qicether0c",0
+57,"chn_arrow01f",0
+58,"",0
+59,"",0
+60,"",0

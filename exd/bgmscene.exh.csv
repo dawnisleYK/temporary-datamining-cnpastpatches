@@ -5,6 +5,7 @@ Index,0 [BBOOL] [0x0],1 [BBOOL] [0x0],2 [BBOOL] [0x0],3 [BBOOL] [0x0],4 [BBOOL] 
 3,false,true,false,true,false
 4,false,true,false,true,false
 5,false,true,false,true,false
-6,true,false,false,true,false
-7,true,false,true,true,true
+6,false,true,false,true,false
+7,true,false,false,true,false
 8,true,false,true,true,true
+9,true,false,true,true,true

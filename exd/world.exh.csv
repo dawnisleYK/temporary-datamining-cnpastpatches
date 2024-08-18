@@ -79,6 +79,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 100,"dev_test",0,1,false
 101,"cent_test",0,0,false
 102,"trs_test",0,0,false
+103,"contents_test",0,0,false
 110,"b-tirica",1,1,false
 111,"b-contents",0,0,false
 112,"b-chiriri",3,4,false

@@ -103,8 +103,8 @@ Index,0 [UINT] [0x4],1 [UBYTE] [0x8],2 [STRING] [0x0],3 [BBOOL] [0x9],4 [BBOOL] 
 101,16382196,10,"无瑕白",false,true
 102,1973790,10,"煤玉黑",false,true
 103,16632006,10,"柔彩粉",false,true
-104,3283225,0,"黑暗红",false,true
-105,2629916,0,"黑暗棕",false,true
+104,3283225,10,"黑暗红",false,true
+105,2629916,10,"黑暗棕",false,true
 106,12242858,10,"柔彩绿",false,true
 107,1387564,10,"黑暗绿",false,true
 108,9872601,10,"柔彩蓝",false,true

@@ -121,7 +121,12 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x8],3 [BBOOL] [0xA],4 [BBOOL
 119,"m0336ice0f","",2,true,false,0
 120,"m0119_trap_01t","",2,true,false,0
 121,"undeadraise2o0c","",2,true,false,0
-122,"","",0,true,false,0
-123,"","",0,true,false,0
-124,"","",0,true,false,0
-125,"","",0,true,false,0
+122,"m0344_quasar01ah","",2,true,false,0
+123,"m0344_quasar02ah","",2,true,false,0
+124,"m0344sp08o0h","",2,true,false,0
+125,"m0361en_o0t","",2,true,false,0
+126,"m0344_quasar01bh","",2,true,false,0
+127,"m0012bitlz_o0t","",4,true,false,0
+128,"gl_fan210_1bf","",3,true,false,0
+129,"","",0,true,false,0
+130,"","",0,true,false,0

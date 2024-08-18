@@ -75,7 +75,7 @@ Index,0 [UBYTE] [0xC],1 [STRING] [0x0],2 [STRING] [0x4],3 [STRING] [0x8],4 [UBYT
 73,0,"<color?><value></color>","标记设置信息","",0
 74,0,"<color?><value></color>","掷骰点数","",0
 75,0,"<color?><value></color>","新人频道通知","",0
-76,0,"","","",0
+76,0,"<color?><value></color>","","",0
 77,0,"","","",0
 78,0,"","","",0
 79,0,"","","",0
