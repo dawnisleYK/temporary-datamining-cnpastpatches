@@ -5996,9 +5996,9 @@ Index,0 [UBYTE] [0x6],1 [UBYTE] [0x7],2 [BBOOL] [0x10],3 [UBYTE] [0x8],4 [UBYTE]
 5994,0,3,false,0,0,0,"mon_sp/gimmick/z3r1_boss2_gimmick02",0,0,0,0,0,0,false,false,false,false,true
 5995,0,1,false,0,0,0,"mon_sp/gimmick/z3r1_boss2_gimmick02_hit",0,0,0,0,0,0,false,false,false,false,true
 5996,0,1,false,0,0,0,"normal_hit/zeroframe_hit",0,0,0,0,0,0,false,false,true,false,true
-5997,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-5998,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-5999,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
+5997,0,1,false,0,0,0,"mon_sp/gimmick/f1bz_boss_gimmick01_hit",0,0,0,0,0,0,false,false,false,false,true
+5998,0,3,false,0,0,0,"mon_sp/gimmick/f1bz_boss_gimmick02",0,0,0,0,0,0,false,false,false,false,true
+5999,0,3,false,0,0,0,"mon_sp/gimmick/f1bz_boss_gimmick03",0,0,0,0,0,0,false,false,false,false,true
 6000,0,3,false,0,0,0,"mon_sp/gimmick/g3d4_boss_gimmick01",0,0,0,0,0,0,false,false,false,false,true
 6001,0,1,false,0,0,0,"mon_sp/gimmick/g3d4_boss_gimmick01_hit",0,0,0,0,0,0,false,false,false,false,true
 6002,0,3,false,0,0,0,"mon_sp/gimmick/g3d4_boss_gimmick02",0,0,0,0,0,0,false,false,false,false,true

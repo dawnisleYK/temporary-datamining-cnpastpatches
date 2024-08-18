@@ -628,7 +628,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x2C],3 [USHORT] [0x1C],4 [US
 730,"g3fc","ex2/01_gyr_g3/fld/g3fc/level/g3fc",1,2400,514,2715,435,9,2,10,278,true,76,0,true,false,false,false,1001,122023,124958,0,0,0,-1,260,-1,false,2,0,0,0,false
 731,"g3d4","ex2/01_gyr_g3/dun/g3d4/level/g3d4",1,2400,514,2367,413,9,2,3,279,false,0,0,true,false,false,false,1001,122023,124957,0,0,0,-1,261,-1,false,2,0,0,0,false
 732,"","",0,0,0,0,0,0,0,0,0,false,0,0,false,false,false,false,0,0,0,0,0,0,0,0,0,false,0,0,0,0,false
-733,"","",0,0,0,0,0,0,0,0,0,false,0,0,false,false,false,false,0,0,0,0,0,0,0,0,0,false,0,0,0,0,false
+733,"f1bz","ffxiv/fst_f1/bah/f1bz/level/f1bz",1,2405,0,1759,416,1,2,17,280,false,0,0,true,false,false,false,1001,122010,124747,0,0,0,-1,255,-1,false,2,0,0,0,false
 734,"z3r1","ex2/05_zon_z3/rad/z3r1/level/z3r1",1,2405,0,2372,422,1,2,8,281,false,0,0,true,false,false,false,1001,122010,124746,0,0,0,-1,0,-1,false,2,0,0,0,true
 735,"z3e2","ex2/05_zon_z3/evt/z3e2/level/z3e2",1,2405,0,2370,420,1,0,15,0,false,0,0,true,false,false,false,510,-1,-1,853733,0,111,-1,0,-1,false,2,0,0,0,false
 736,"z3e3","ex2/05_zon_z3/evt/z3e3/level/z3e3",1,2405,0,2371,421,1,0,15,0,false,0,0,true,false,false,false,510,-1,-1,853729,0,111,-1,0,-1,false,2,0,0,0,false

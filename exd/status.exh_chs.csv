@@ -626,7 +626,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 624,"切伤","斩击属性持续伤害，体力逐渐流失",15521,0,2,17,0,false,false,false,false,false,false,false,true,true,10,true,0,false,0,false,false,0,0,false
 625,"击倒","被击倒在地，无法移动或发动技能",15044,0,2,3,0,true,false,true,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0,false
 626,"无法发动技能","无法发出任何技能",15045,0,2,3,0,false,false,true,false,false,false,false,true,true,100,true,0,false,0,false,false,0,0,false
-627,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+627,"拘束装置","被拘束装置压制了力量的状态",15545,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
 628,"医济","体力会随时间逐渐恢复",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 629,"虚弱","自身所受的治疗魔法效果降低",17961,16,2,17,0,false,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,0,false
 630,"加重","加速受到限制",16576,0,2,0,0,false,false,false,false,false,false,false,false,false,0,true,0,true,0,false,false,0,0,false
@@ -1433,10 +1433,10 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1431,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1432,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1433,"变身","变成了其他形态",16214,0,1,16,0,false,false,false,false,true,false,false,true,true,100,true,2,false,0,false,false,0,9,false
-1434,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1435,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1436,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1437,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1434,"魔力过敏","变得对魔力过敏，被“魔力爆散”攻击所受到的伤害会大幅提高",15817,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1435,"突刺耐性大幅降低","对抗突刺属性的耐性有显著降低",15818,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1436,"不死鸟的加护","受到了不死鸟的加护，攻击造成的伤害提高",15819,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,true,0,false,false,0,0,false
+1437,"真力解放","至尊巴哈姆特散发出狂暴的气息，攻击造成的伤害提高",15820,0,1,16,0,false,false,false,false,true,false,false,true,true,200,true,2,false,0,false,false,0,9,false
 1438,"超越者","通过人工手段强制发动超越之力",15795,0,1,16,31,true,false,true,false,false,false,false,true,true,200,true,4,false,0,false,false,0,16,false
 1439,"自由作战","自由行动的状态，体力最大值提高，攻击所造成的伤害提高，受到攻击的伤害减少",19101,5,1,16,0,false,false,false,true,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
 1440,"攻势作战","重视攻击的状态，攻击所造成的伤害提高",19121,5,1,16,0,false,false,false,true,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
