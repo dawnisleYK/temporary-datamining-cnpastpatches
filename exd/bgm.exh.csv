@@ -478,10 +478,10 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BBOOL] [0xA],3 [BBOOL] [0xA],4 [BBOOL]
 476,"music/ex2/BGM_EX2_Dan_D06.scd",1,false,false,true,90.0,0
 477,"music/ex2/BGM_EX2_Dan_D07.scd",1,false,false,true,90.0,0
 478,"music/ex2/BGM_EX2_Dan_D08.scd",1,false,false,true,90.0,0
-479,"",0,false,false,false,0.0,0
-480,"",0,false,false,false,0.0,0
-481,"",0,false,false,false,0.0,0
-482,"",0,false,false,false,0.0,0
+479,"music/ex2/BGM_EX2_Omega_01.scd",1,false,false,true,90.0,0
+480,"music/ex2/BGM_EX2_Omega_02.scd",1,false,false,true,90.0,0
+481,"music/ex2/BGM_EX2_Omega_03.scd",1,false,false,true,90.0,0
+482,"music/ex2/BGM_EX2_Omega_04.scd",1,false,false,true,90.0,0
 483,"music/ex2/BGM_EX2_Mount01.scd",1,false,false,true,90.0,2
 484,"music/ex2/BGM_EX2_Event_10.scd",1,false,false,true,90.0,0
 485,"music/ex2/BGM_EX2_Event_11.scd",1,false,false,true,90.0,0

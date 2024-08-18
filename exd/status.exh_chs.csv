@@ -447,8 +447,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 448,"蜂群","被蜂群所包围，效果结束时会遭到蜂群的攻击",17461,8,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 449,"蜂刺症","蜂毒在体内积攒，来自蜂群的攻击所造成的伤害会有所增加",17001,8,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 450,"石化无效","不会被石化封锁住行动",15608,0,1,16,0,false,false,false,false,false,false,false,true,true,100,true,0,false,0,false,false,0,0,false
-451,"诅咒之声","受到诅咒之声的影响，身体不受控制，并且会自动发出“石化之声”",15587,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
-452,"诅咒之嚎","受到诅咒之嚎的影响，身体不受控制，并且会自动发出“石化之嚎”",15588,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+451,"诅咒之声","受到了诅咒，效果结束时身体会被控制，发动技能将除自己外一定范围内的目标石化",15587,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+452,"诅咒之嚎","受到了诅咒，效果结束时身体会被控制，发动技能将除自己外全屏范围内的目标石化",15588,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 453,"亚拉戈蛇毒","中了亚拉戈蛇毒，全体小队队员都会逐渐流失体力",15007,0,2,17,0,false,false,false,false,false,false,true,false,false,200,true,0,false,0,false,false,0,0,false
 454,"亚拉戈领域","所受到的伤害会积蓄在一个特殊的魔法领域中，当效果消失或陷入无法战斗状态时，积蓄的伤害量会瞬间爆发出来",15590,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 455,"生命衰弱","生命力变得很虚弱，遭到“生命吸收”攻击时所受的伤害会有所增加",17101,4,2,17,0,false,false,false,false,false,false,false,false,false,150,true,0,false,0,false,false,0,0,false
@@ -562,7 +562,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 564,"止步","无法自由移动",15003,0,2,12,5,true,false,false,false,false,false,true,false,false,100,true,0,false,0,false,false,0,0,false
 565,"变身","变身成了其他形态，只能发动专用技能",16214,0,1,16,0,false,false,true,false,true,false,false,false,false,100,true,2,false,0,false,false,0,9,false
 566,"伤害提高","攻击所造成的伤害提高",17061,16,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
-567,"流沙","陷入流沙之中，移动速度逐渐降低，身体完全沉下去会陷入无法战斗状态",15631,0,2,0,0,false,false,false,false,false,false,false,false,false,100,true,24,false,0,false,false,0,0,false
+567,"下陷","身体逐渐下沉，移动速度逐渐降低，身体完全沉下去会陷入无法战斗状态",15631,0,2,0,0,false,false,false,false,false,false,false,false,false,100,true,24,false,0,false,false,0,0,false
 568,"捕鱼人之识","察觉到稀有鱼类活动的状态。<br>可以钓到只在特殊条件下出现的鱼类",11101,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,true,0,false,false,0,0,false
 569,"粘液","身上粘粘的，动作迟缓，体力逐渐流失",15609,0,2,17,0,false,false,false,false,false,false,true,false,false,100,true,0,false,0,false,false,0,0,false
 570,"瞄准","举枪瞄准，开枪攻击造成的伤害会逐渐提高",15636,0,1,16,0,false,false,false,false,false,false,false,true,false,51,true,0,true,0,false,false,0,0,false
@@ -1196,7 +1196,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1205,"火焰喷射器","对前方扇形范围内的敌人持续造成伤害",13017,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,4,true,0,false,false,0,27,false
 1207,"慈爱","发动治疗魔法的治疗量提高",13910,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1208,"受伤加重","受到攻击的伤害增加",15020,0,2,17,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
-1209,"亲疏自行","击退与吸引无效<br>受到攻击时对攻击者附加减速状态",13915,0,1,16,0,false,false,false,false,false,false,false,false,false,30,true,0,false,0,false,false,0,0,false
+1209,"亲疏自行","除特定攻击之外击退与吸引无效<br>受到攻击时对攻击者附加减速状态",13915,0,1,16,0,false,false,false,false,false,false,false,false,false,30,true,0,false,0,false,false,0,0,false
 1210,"霹雷","雷属性持续伤害，体力逐渐流失",12657,0,2,17,0,false,false,false,false,false,false,true,false,false,10,true,0,false,0,false,false,0,0,false
 1211,"三连咏唱","咏唱魔法不需要咏唱时间",12658,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,true,0,false,false,0,19,false
 1212,"毁灭强化","可以发动毁绝",12685,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,true,0,false,false,0,0,false
@@ -1220,7 +1220,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1234,"赤火炎预备","可以发动赤火炎",13402,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1235,"赤飞石预备","可以发动赤飞石",13403,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1236,"燕飞效果提高","下次发动燕飞的威力提高",13310,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
-1237,"散射效果提高","发动散射时可以获得更多白魔元和黑魔元",13404,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
+1237,"散碎效果提高","发动散碎时可以获得更多白魔元和黑魔元",13404,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1238,"促进","下次发动的赤闪雷或赤疾风时必定发动追加效果",13405,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1239,"鼓励","魔法攻击所造成的伤害提高",18921,5,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1240,"必杀剑·地天","令自身所受到的伤害减少，同时给予对方反击伤害",14820,0,1,16,0,false,false,false,false,false,false,false,false,false,1,true,0,false,0,false,false,0,0,false
@@ -1328,12 +1328,15 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1355,"击退无效","击退与吸引效果无效",14835,0,1,16,0,false,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0,false
 1356,"河童","变身成河童，只能够发动专用技能“河童拳”",15043,0,2,17,0,false,false,true,false,true,false,false,false,false,200,true,2,false,0,false,false,0,9,false
 1357,"重力反转","失重漂浮在空中，并且高度逐渐上升",15767,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1358,"固定高位","高度固定的状态，并且不受高度变化效果的影响",15768,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,25,false,0,false,false,0,24,false
 1359,"渐渐石化","逐渐石化",18861,3,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1360,"重力爆发","全身缠绕着重力魔法，效果结束时会引起重力异常，对周围造成无属性伤害",15770,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1361,"魔导浮空","重力に反発し、宙に浮いた状態。",15037,0,1,16,33,false,false,false,false,false,false,false,true,true,1,true,12,true,0,false,false,0,0,false
 1362,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1363,"睡眠","陷入沉睡，无法做出任何行动",15013,0,2,2,3,true,false,true,false,false,false,false,true,true,100,true,0,false,0,false,false,0,3,false
 1364,"疾风极意","可以发动疾风极意",12530,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1365,"暴雷预备","可以咏唱暴雷",10461,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
+1366,"浮空","无视重力，浮在空中的状态",15037,0,1,16,33,false,false,false,false,false,false,false,true,true,1,true,12,true,0,false,false,0,0,false
 1367,"冲击预备","可以发动冲击",13401,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1368,"安魂祈祷","魔法攻击所造成的伤害及发动治疗魔法的治疗量提高",12514,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1369,"安魂祈祷","魔法攻击所造成的伤害及发动治疗魔法的治疗量提高",12514,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
@@ -1350,6 +1353,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1387,"技能效果范围变动","技能的效果范围发生了变动",10404,0,1,0,0,false,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,14,false
 1388,"沾灰","身上落满了幽狱灰",15804,0,2,17,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1389,"魅惑","被魅惑导致失去行动的自由",15552,0,2,17,17,false,true,true,true,false,true,false,true,false,100,true,11,false,0,false,false,0,0,true
+1390,"浮空","无视重力，浮在空中的状态",15037,0,1,16,0,false,false,false,false,false,false,false,true,true,1,true,12,true,0,false,false,0,0,false
 1391,"拘束","无法做出任何行动",15545,0,2,17,0,true,false,true,true,false,false,false,true,true,100,true,4,false,0,false,false,0,0,false
 1392,"月长石之光","从月长石的光辉中获得了力量，攻击所造成的伤害提高，受到的伤害减轻",15803,0,1,16,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1393,"连续咏唱","下次咏唱魔法不需要咏唱时间",13406,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
@@ -1371,6 +1375,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1409,"虚弱","自身所受的治疗魔法效果降低",15531,0,2,17,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1410,"反复无常","吉祥天女爆发了反复无常的神性",15805,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
 1411,"60级经验加速","60级以下获得的经验值将大幅提高",16227,0,1,16,0,false,false,false,false,false,false,false,true,true,0,false,0,true,0,false,false,0,0,false
+1412,"受伤加重","受到攻击的伤害增加",17101,16,2,17,0,false,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,0,false
 1413,"红莲极意","以战技的复唱时间延长为代价提高攻击造成的伤害",12528,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1414,"战斗连祷","造成的伤害提高",12578,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1415,"护盾","减轻所受到的伤害",10405,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
+1416,"固定低位","高度固定的状态，并且不受高度变化效果的影响",15806,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,25,false,0,false,false,0,24,false
