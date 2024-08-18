@@ -1,7 +1,7 @@
 Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [BBOOL] [0x9],3 [BBOOL] [0x9],4 [BBOOL] [0x9],5 [BBOOL] [0x9],6 [UBYTE] [0x8],7 [BBOOL] [0x9]
-0,0,0,false,true,false,false,0,false
-1,50,51,false,true,true,false,11,false
-2,52,53,false,true,true,true,11,false
+0,0,0,true,true,false,false,0,false
+1,52,53,false,true,true,false,11,false
+2,50,51,false,true,true,true,11,false
 3,88,89,false,true,true,true,11,false
 4,101,0,true,false,false,false,3,false
 5,102,0,true,false,false,false,3,false
@@ -24,3 +24,11 @@ Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [BBOOL] [0x9],3 [BBOOL] [0x9],4 [BBOOL] [0
 22,145,0,true,false,false,false,3,false
 23,149,0,true,false,false,false,3,false
 24,150,0,true,false,false,false,3,false
+25,155,0,true,false,false,false,3,false
+26,156,0,true,true,false,false,3,false
+27,157,0,true,true,false,false,3,false
+28,158,0,true,false,false,false,3,false
+29,164,0,true,false,false,false,3,false
+30,165,0,true,false,false,false,3,false
+31,166,0,true,false,false,false,3,false
+32,167,0,true,false,false,false,3,false

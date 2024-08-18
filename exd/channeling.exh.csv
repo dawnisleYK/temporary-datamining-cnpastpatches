@@ -61,8 +61,10 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4]
 59,"chn_m7001sp10h",15
 60,"chn_m0012af",0
 61,"chn_m0377_0k",0
-62,"chn_2sp16_0c",12
+62,"chn_2sp16_0c",15
 63,"chn_m0012_0k",0
 64,"chn_m0109ac",0
 65,"chn_whm_qib0f",0
 66,"chn_m0372_01j",0
+67,"chn_m0117power_give_01i",0
+68,"chn_2sp16_0c",12

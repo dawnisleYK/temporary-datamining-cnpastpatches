@@ -93,4 +93,4 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [UBYTE] [0x6],4 [UBYTE]
 91,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>对花盆里的作物浇了些水。",16,0,0,6,13
 92,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>从花盆里的作物中收获了<value>个<ref:Item>。",16,14,1,6,13
 93,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>将花盆里的作物处理掉了。",16,0,0,6,13
-94,"",0,0,0,0,0
+94,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>将房屋搬迁到了<ref:PlaceName>第<value>区<value>号土地。",4,7,0,5,11

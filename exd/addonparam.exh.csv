@@ -203,3 +203,12 @@ Index,0 [STRING] [0x0],1 [BBOOL] [0x4]
 405,"PvPCharacter",true
 409,"PvpWelcome",true
 410,"LFGFilterSettings",true
+417,"GcArmyChangeTactic",true
+418,"GcArmyChangeMiragePrism",true
+419,"GcArmyChangeMiragePrismSub",true
+420,"GcArmyChangeMiragePrismConfirm",true
+421,"GcArmyCapture",true
+422,"GcArmyOrder",true
+425,"LFGLogSettings",true
+426,"TreasureHighLow",true
+431,"ManeuversArmorBoarding",true

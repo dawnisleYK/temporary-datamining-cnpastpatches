@@ -114,8 +114,8 @@ Index,0 [UINT] [0x4],1 [UBYTE] [0x8],2 [STRING] [0x0],3 [BBOOL] [0x9],4 [BBOOL] 
 112,10987431,10,"闪耀银",true,false
 113,15590973,10,"闪耀金",true,false
 114,11935051,10,"金属红",true,false
-115,14978095,0,"金属橙",true,false
-116,16046662,0,"金属黄",true,false
+115,14978095,10,"金属橙",true,false
+116,16046662,10,"金属黄",true,false
 117,2271063,10,"金属绿",true,false
 118,6214886,10,"金属蓝",true,false
 119,5264089,10,"金属靛",true,false

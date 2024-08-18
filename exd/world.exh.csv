@@ -1,5 +1,5 @@
 Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
-0,"Zvahl",0,0,false
+0,"crossworld",0,0,false
 1,"c-funereus",0,2,false
 2,"c-contents",0,0,false
 3,"c-whiteae",0,1,false
@@ -87,17 +87,15 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 112,"b-chiriri",3,4,false
 113,"b-contents2",0,0,false
 114,"b-jugularis",1,2,false
-115,"e-regia",0,1,false
-116,"e-pialii",0,4,false
-117,"e-jcontents",0,1,false
-118,"e-nacontents",0,4,false
-119,"e-coloria",0,1,false
-120,"e-gouldiae",0,4,false
-121,"e-jcontents2",0,1,false
-122,"e-nacontents2",0,4,false
-123,"e-trichroa",0,2,false
+115,"e-regia",1,1,false
+116,"e-pialii",3,4,false
+117,"e-contents",0,0,false
+118,"e-contents2",0,0,false
+119,"e-coloria",1,1,false
+120,"e-gouldiae",0,0,false
+121,"e-contents3",0,0,false
+123,"e-trichroa",1,2,false
 124,"e-hyperion",0,0,false
-125,"e-jcontents3",0,2,false
 126,"e-ragnarok",0,0,false
 127,"e-ridill",0,0,false
 128,"e-sargatanas",0,0,false
@@ -114,8 +112,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 139,"a-sargatanas",3,1,false
 140,"a-contents",4,0,false
 141,"b-contents3",0,0,false
-142,"b-cyanoptera",3,0,false
-143,"b-contents4",0,0,false
+142,"b-cyanoptera",1,1,false
 144,"a-contents2",0,0,false
 160,"s-bella",0,0,false
 161,"Chocobo",0,0,false
@@ -208,17 +205,6 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 261,"Nacontents31",0,0,false
 262,"Nacontents32",0,0,false
 263,"Nacontents33",0,0,false
-512,"b-public1",0,0,false
-513,"b-public2",0,0,false
-514,"b-public3",0,0,false
-515,"b-public4",0,0,false
-516,"b-public5",0,0,false
-517,"b-public6",0,0,false
-518,"b-public7",0,0,false
-519,"b-public8",0,0,false
-520,"b-public9",0,0,false
-521,"b-public10",0,0,false
-522,"b-public11",0,0,false
 576,"h-collaris",0,0,false
 577,"h-metallica",0,0,false
 578,"h-contents",0,0,false
@@ -511,7 +497,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 2054,"KrOdin",0,0,false
 2055,"KrUltima",0,0,false
 2056,"KrMandragora",0,0,false
-2057,"KrTonberry",0,0,false
+2057,"KrTonberry2",0,0,false
 2058,"KrExcalibur",0,0,false
 2059,"KrPhoenix",0,0,false
 2060,"KrAlexander",0,0,false
@@ -532,6 +518,8 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 2075,"KrCarbuncle",0,0,false
 2076,"KrChocobo",0,0,false
 2077,"KrMoogle",0,0,false
+2078,"KrTonberry",0,0,false
+2079,"KrCaitsith",0,0,false
 2560,"koreacontents1",0,0,false
 2561,"koreacontents2",0,0,false
 2562,"krcontents1",0,0,false
@@ -554,3 +542,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 2579,"krcontents18",0,0,false
 2580,"krcontents19",0,0,false
 2581,"krcontents20",0,0,false
+2582,"krcontents21",0,0,false
+2583,"krcontents22",0,0,false
+65534,"outofrange1",0,0,false
+65535,"outofrange2",0,0,false

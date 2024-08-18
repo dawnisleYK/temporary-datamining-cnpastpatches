@@ -7,3 +7,9 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [STRING] [0x4],3 [BYTE] [0xA],4 [BYTE] 
 5,"大地之契约",3,"ContentGaugeMax_negative",-1,1,0
 6,"捡到的钱",2,"ContentGaugeMax_negative",-1,1,0
 7,"魅惑拥抱",4,"ContentGaugeMax_negative",-1,1,0
+8,"哈修马利姆的魔力",3,"ContentGaugeMax_negative",-1,1,0
+9,"",0,"",0,0,0
+10,"虚无",2,"ContentGaugeMax_negative",-1,1,0
+11,"芙朵拉的以太",1,"ContentGaugeMax_negative",-1,1,0
+12,"马提乌斯的以太",1,"ContentGaugeMax_negative",-1,1,0
+13,"以太加速度",2,"ContentGaugeMax_negative",-1,1,0

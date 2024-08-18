@@ -3,8 +3,8 @@ Index,0 [STRING] [0x0],1 [BBOOL] [0x4],2 [BBOOL] [0x4]
 1,"主线任务2(红莲之狂潮)",true,true
 2,"编年史任务",true,true
 3,"支线任务",true,true
-4,"蛮族任务1(重生之境)",true,true
-5,"蛮族任务2(苍穹之禁城)",true,true
+4,"蛮族任务1(重生之境/苍穹之禁城)",true,true
+5,"蛮族任务2(红莲之狂潮)",true,true
 6,"职业及特职任务",true,true
 7,"其它",true,true
 8,"理符",true,false

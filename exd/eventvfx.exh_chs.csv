@@ -33,7 +33,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [STRING] [0x4],3 [UBYTE] [0x9],4 [UBYTE
 31,"上下装饰2",2,"gpose_frame_doma_yoko",57,2,1
 32,"电影",2,"gpose_frame_cinema",53,2,1
 33,"图画纸",2,"gpose_gayousi",13,1,1
-34,"",0,"",0,0,0
+34,"画笔3",2,"gpose_akatsuki",23,1,1
 35,"",0,"",0,0,0
 36,"",0,"",0,0,0
 37,"",0,"",0,0,0
