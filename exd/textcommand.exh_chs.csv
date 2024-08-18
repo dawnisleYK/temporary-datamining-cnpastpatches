@@ -250,3 +250,4 @@ Index,0 [UBYTE] [0x18],1 [UBYTE] [0x19],2 [BYTE] [0x1B],3 [BYTE] [0x1C],4 [BYTE]
 523,2,1,2,0,0,"/victorypose","/vpose","/欢呼胜利 子命令<br>/victorypose、/vpose<br>做出胜利时欢呼的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/欢呼胜利","",4,0
 524,2,1,2,0,0,"/backflip","/bflip","/后空翻 子命令<br>/backflip、/bflip<br>做出后空翻的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/后空翻","",4,0
 525,2,1,2,0,0,"/easterngreeting","/egreeting","/抱拳礼（/抱拳）子命令<br>/easterngreeting、/egreeting<br>做出行抱拳礼的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/抱拳礼","/抱拳",4,0
+526,2,1,2,0,0,"/eureka","","/灵光一现（/灵光） 子命令<br>/eureka<br>做出灵光一现的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/灵光一现","/灵光",4,0
