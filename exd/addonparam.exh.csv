@@ -1,4 +1,6 @@
 Index,0 [STRING] [0x0],1 [BBOOL] [0x4]
+0,"AchievementInfo",true
+1,"CrossWorldLinkshell",true
 3,"JournalAccept",true
 4,"JournalResult",true
 5,"Trade",true

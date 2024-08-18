@@ -21,3 +21,4 @@ Index,0 [UINT] [0x0],1 [UBYTE] [0x3C],2 [UINT] [0x4],3 [UINT] [0x20],4 [BOOL] [0
 19,105,0,439877633,0,false,0,162267136,196608,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
 20,105,0,1550057473,0,false,0,191954944,16711680,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
 21,111,0,1535049728,0,false,0,262144,0,false,4,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+22,111,0,-587988992,0,false,0,65536,0,false,5,262144,0,false,5,327680,0,false,5,524288,0,false,5,589824,0,false,5,0,0,false

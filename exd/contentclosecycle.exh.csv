@@ -1,0 +1,5 @@
+Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [UINT] [0x8],3 [BOOL] [0xC],4 [BOOL] [0xD],5 [BOOL] [0xE],6 [BOOL] [0xF],7 [BOOL] [0x10],8 [BOOL] [0x11],9 [BOOL] [0x12],10 [BOOL] [0x13],11 [BOOL] [0x14],12 [BOOL] [0x15]
+0,0,86400,0,true,true,true,true,true,true,true,true,true,true
+1,1517065200,86400,3,true,false,false,true,true,true,true,true,true,true
+2,1517065200,86400,3,false,true,false,true,true,true,true,true,true,true
+3,1517065200,86400,3,false,false,true,true,true,true,true,true,true,true

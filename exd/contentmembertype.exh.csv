@@ -22,3 +22,5 @@ Index,0 [BBOOL] [0xA],1 [UBYTE] [0x0],2 [BBOOL] [0xA],3 [BBOOL] [0xA],4 [UBYTE] 
 20,false,0,false,false,0,8,2,1,0,0,0,0,0,false,true,false,false
 21,false,0,false,false,0,8,4,2,0,1,1,1,1,true,false,false,true
 22,false,0,true,true,2,8,4,2,0,0,0,0,0,false,true,false,true
+23,false,0,false,false,0,8,8,1,0,0,0,0,0,false,false,false,false
+24,false,0,false,false,0,8,8,1,0,0,0,0,0,false,false,false,false

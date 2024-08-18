@@ -11,5 +11,5 @@ Index,0 [STRING] [0x0],1 [INT] [0x4],2 [INT] [0x8],3 [UBYTE] [0xC]
 9,"战队段位已升至“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”。",0,3,0
 10,"战队段位已降至“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”。",0,3,0
 11,"新的赛季开始了。",0,0,0
-12,"因为队长已经离开一定时间，<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>被任命为战队队长。",2,0,0
+12,"因为队长已经离开一定期间，<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>被任命为战队队长。",2,0,0
 13,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>被任命为战队副队长。",2,0,0

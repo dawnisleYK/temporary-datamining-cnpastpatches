@@ -1,3 +1,4 @@
-Index,0 [UBYTE] [0x14],1 [UBYTE] [0x15],2 [UBYTE] [0x0],3 [UBYTE] [0x1],4 [UBYTE] [0x2],5 [UBYTE] [0x3],6 [UBYTE] [0x4],7 [UBYTE] [0x5],8 [UBYTE] [0x6],9 [UBYTE] [0x7],10 [UBYTE] [0x8],11 [UBYTE] [0x9],12 [UBYTE] [0xA],13 [UBYTE] [0xB],14 [UBYTE] [0xC],15 [UBYTE] [0xD],16 [UBYTE] [0xE],17 [UBYTE] [0xF],18 [STRING] [0x10]
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,""
-1,1,2,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,"死者宫殿"
+Index,0 [UBYTE] [0x1A],1 [UBYTE] [0x1B],2 [UBYTE] [0x0],3 [UBYTE] [0x1],4 [UBYTE] [0x2],5 [UBYTE] [0x3],6 [UBYTE] [0x4],7 [UBYTE] [0x5],8 [UBYTE] [0x6],9 [UBYTE] [0x7],10 [UBYTE] [0x8],11 [UBYTE] [0x9],12 [UBYTE] [0xA],13 [UBYTE] [0xB],14 [UBYTE] [0xC],15 [UBYTE] [0xD],16 [UBYTE] [0xE],17 [UBYTE] [0xF],18 [UBYTE] [0x10],19 [UBYTE] [0x11],20 [UBYTE] [0x12],21 [UBYTE] [0x13],22 [STRING] [0x14],23 [USHORT] [0x18],24 [BBOOL] [0x1C]
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"",0,false
+1,1,2,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,0,0,0,0,"死者宫殿",174,false
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"",0,false

@@ -371,6 +371,9 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 1167,"HongYuHai",0,0,false
 1168,"HuangJinGang",0,0,false
 1169,"YanXia",0,0,false
+1170,"ChaoFengTing",0,0,false
+1171,"ShenQuanHen",0,0,false
+1172,"BaiYinXiang",0,0,false
 1536,"contentstest1",0,0,false
 1537,"contentstest2",0,0,false
 1552,"sdocontents1",0,0,false

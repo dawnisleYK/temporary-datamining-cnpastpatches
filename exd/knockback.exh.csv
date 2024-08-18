@@ -116,7 +116,13 @@ Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [BBOOL] [0x5],3 [UBYTE] [0x2],4 [UBYTE] 
 114,35,20,true,0,3,0,true
 115,11,20,true,0,0,0,true
 116,22,30,true,0,0,0,true
-117,0,0,true,0,0,0,true
-118,0,0,true,0,0,0,true
-119,0,0,true,0,0,0,true
-120,0,0,true,0,0,0,true
+117,24,24,true,0,0,0,true
+118,5,10,true,0,6,0,true
+119,10,20,true,0,6,0,true
+120,15,20,true,0,6,0,true
+121,20,40,true,0,6,0,true
+122,13,13,true,0,0,0,true
+123,20,40,false,0,0,0,true
+124,20,20,true,0,6,0,true
+125,30,60,true,0,3,0,true
+126,0,0,true,0,0,0,true

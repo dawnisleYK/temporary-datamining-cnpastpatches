@@ -36,7 +36,7 @@ Index,0 [UBYTE] [0xC],1 [STRING] [0x0],2 [STRING] [0x4],3 [STRING] [0x8],4 [UBYT
 34,0,"","","",0
 35,0,"","","",0
 36,0,"<color?>[对战]<<value>> <value></color>","","",0
-37,0,"","","",0
+37,0,"<color?>[跨服贝]<<value>> <value></color>","跨服通讯贝","",0
 38,0,"","","",0
 39,0,"","","",0
 40,0,"","","",0
@@ -78,7 +78,7 @@ Index,0 [UBYTE] [0xC],1 [STRING] [0x0],2 [STRING] [0x4],3 [STRING] [0x8],4 [UBYT
 76,0,"<color?><value></color>","","",0
 77,0,"<color?><value></color>","","",0
 78,0,"<color?><value></color>","","",0
-79,0,"","","",0
+79,0,"<color?><value></color>","","",0
 80,0,"<color?>[游戏管理员]<value> >> <value></color>","游戏管理员的悄悄话","",0
 81,0,"<color?>[游戏管理员]<value>：<value></color>","游戏管理员的说话","",0
 82,0,"<color?>[游戏管理员]<value>：<value></color>","游戏管理员的喊话","",0

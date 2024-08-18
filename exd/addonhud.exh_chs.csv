@@ -66,5 +66,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [STRING] [0x8]
 70,"目标情报：状态效果","TargetInfo:Status",""
 71,"目标情报：咏唱栏","TargetInfo:CastBar",""
 72,"目标情报：体力栏","TargetInfo:HP",""
+73,"群狼盛宴：战章","TheFeast:Score",""
+74,"群狼盛宴：我方情报","TheFeast:AllyInfo",""
+75,"群狼盛宴：敌方情报","TheFeast:EnemyInfo",""
 "","","",""
 "","","",""
