@@ -417,7 +417,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BBOOL] [0xA],3 [BBOOL] [0xA],4 [BBOOL]
 415,"music/ffxiv/BGM_Ride_Sophia.scd",1,false,false,true,90.0,2
 416,"music/ffxiv/BGM_Ride_Alex2.scd",1,false,false,true,90.0,2
 417,"music/ex1/BGM_EX1_Ban_Demon_02.scd",1,false,false,true,90.0,0
-418,"",0,false,false,false,0.0,0
+418,"music/ex1/BGM_EX1_Event_vs.scd",1,false,false,true,90.0,0
 419,"music/ex1/BGM_EX1_Ban_Demon.scd",1,false,false,true,90.0,0
 420,"music/ex1/BGM_EX1_Dungeon_Gri_09.scd",1,false,false,true,90.0,0
 421,"music/ex1/BGM_EX1_Dungeon_DravaniaH_02.scd",1,false,false,true,90.0,0

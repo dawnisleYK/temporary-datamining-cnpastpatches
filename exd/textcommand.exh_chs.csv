@@ -81,7 +81,7 @@ Index,0 [UBYTE] [0x18],1 [UBYTE] [0x19],2 [BYTE] [0x1B],3 [BYTE] [0x1C],4 [BYTE]
 190,1,0,0,0,0,"/currency","","/货币一览(/货币)<br>/currency<br>打开货币一览窗口。","/货币一览","/货币",32,0
 191,1,0,0,0,0,"/aethercurrent","/acurrent","/风脉泉(/风脉)<br>/aethercurrent、/acurrent<br>打开风脉泉窗口。","/风脉泉","/风脉",32,0
 192,1,0,0,0,0,"/logcolor","/lcolor","/信息颜色<br>/logcolor、/lcolor<br>打开信息颜色设置窗口。","/信息颜色","",32,0
-193,1,0,0,0,0,"/playguide","/pguide","/游戏向导(/向导)<br>/playguide、/pguide<br>打开游戏向导窗口。","/游戏向导","/向导",32,0
+193,1,0,0,0,0,"/playguide","/pguide","/资讯中心(/资讯)<br>/playguide、/pguide<br>打开资讯中心窗口。","/资讯中心","/资讯",32,0
 194,1,0,0,0,0,"/generaldutykey","/gdutykey","/任务通用键<br>/generaldutykey、/gdutykey<br>执行任务通用键。<br><br>>>示例<br>危命任务范围内<br>切换等级同步。<br>竞技场“群狼盛宴”内<br>打开战况窗口。","/任务通用键","",40,0
 195,1,0,0,0,0,"/raidfinder","/rfinder","/大型任务搜索器<br>/raidfinder、/rfinder<br>打开大型任务搜索器。","/大型任务搜索器","",0,0
 196,1,0,0,0,0,"/orchestrion","","/管弦乐琴<br>/orchestrion<br>打开管弦乐琴乐谱集窗口。","/管弦乐琴","",32,0
