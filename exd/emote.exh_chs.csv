@@ -143,7 +143,7 @@ Index,0 [STRING] [0x0],1 [USHORT] [0xC],2 [USHORT] [0xE],3 [USHORT] [0x10],4 [US
 141,"表情：阴险",622,0,622,622,622,622,0,true,true,true,3,0,false,false,false,false,214,542,64119,8030,8031,0
 142,"撒娇",4800,0,4823,4801,4801,0,0,true,true,true,1,0,false,true,false,false,132,543,64330,8032,8033,331
 143,"装死",4799,4798,0,0,4799,0,0,false,true,true,2,21,false,true,false,false,185,544,64331,8034,8035,330
-144,"",0,0,0,0,0,0,0,false,false,false,0,0,false,false,false,false,0,0,0,0,0,0
+144,"寒冰的幻想",4802,0,0,0,0,0,0,false,false,false,2,0,false,true,false,false,188,545,64332,8036,8037,329
 145,"日月之舞",4810,4809,0,0,0,0,0,false,false,false,2,22,false,true,false,false,159,546,64333,8038,8039,332
 146,"表达爱意",4815,0,0,0,0,0,0,false,false,false,1,0,false,true,false,false,32,547,64334,8040,8041,333
 147,"表达爱意",4816,0,0,0,0,0,0,false,false,false,1,0,false,true,false,false,0,0,0,8040,8041,333

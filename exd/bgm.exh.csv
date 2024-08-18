@@ -495,4 +495,4 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BBOOL] [0xA],3 [BBOOL] [0xA],4 [BBOOL]
 493,"music/ffxiv/BGM_Ride_Susano.scd",1,false,false,true,90.0,2
 494,"music/ffxiv/BGM_Ride_Lakshmi.scd",1,false,false,true,90.0,2
 495,"music/ex2/BGM_EX2_Town_R_Sad.scd",1,false,false,true,90.0,0
-496,"",0,false,false,false,0.0,0
+496,"music/ffxiv/BGM_Season_Anniversary.scd",1,false,false,true,90.0,0

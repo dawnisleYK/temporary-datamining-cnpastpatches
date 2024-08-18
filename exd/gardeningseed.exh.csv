@@ -81,6 +81,7 @@ Index,0 [UINT] [0x0],1 [USHORT] [0x8],2 [UINT] [0x4],3 [BBOOL] [0xB],4 [BBOOL] [
 79,16022,102,66502,false,true,2
 80,17048,106,66502,false,true,3
 81,17548,3,66562,false,false,0
+82,17999,107,66502,false,true,4
 83,0,0,0,false,false,0
 84,0,0,0,false,false,0
 85,0,0,0,false,false,0

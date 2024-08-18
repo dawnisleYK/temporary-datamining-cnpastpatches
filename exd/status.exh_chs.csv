@@ -1272,6 +1272,10 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1290,"元气","燃烧沐浴到的吉祥天女的以太<br>受到特定攻击时所受伤害减轻，或转变为治疗魔法效果",15766,0,1,16,32,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1291,"衰败","受到毁灭系魔法攻击时所受伤害会增加",12684,0,2,17,0,false,false,false,false,false,false,true,false,false,0,true,0,false,0,false,false,0,0,false
 1292,"波奇","变成了猪，无法发动任何技能",15772,0,2,17,0,false,false,true,false,true,false,false,false,false,200,true,2,false,0,false,false,0,9,false
+1293,"移动命令：前","被下达了移动命令，效果结束时会向前方移动",15774,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1294,"移动命令：后","被下达了移动命令，效果结束时会向后方移动",15775,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1295,"移动命令：左","被下达了移动命令，效果结束时会向左方移动",15776,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1296,"移动命令：右","被下达了移动命令，效果结束时会向右方移动",15777,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1297,"鼓励","物理攻击所造成的伤害提高",18941,5,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1298,"阵风","攻击所造成的伤害提高",13301,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1299,"士风","自动攻击间隔缩短，同时战技的复唱时间也会缩短",13302,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
@@ -1348,7 +1352,14 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1375,"左手目标","被选为左手的攻击目标",15801,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1376,"巨身之术","使用巨身之术令身体变得巨大，攻击所造成的伤害提高",15799,0,1,16,0,false,false,false,false,true,false,false,true,true,100,true,2,false,0,false,false,0,9,false
 1377,"生命吸收","生命力被吸收，体力逐渐流失",15778,0,2,17,0,false,false,false,false,false,false,false,true,true,10,true,0,false,0,false,false,0,0,false
+1378,"连续咏唱","可连续发动魔法",15779,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
+1379,"至高无上","受到天体魔法影响，体力逐渐减少",15781,0,2,17,0,false,false,false,false,false,false,false,false,false,10,true,0,false,0,false,false,0,0,false
+1380,"生者之伤","肉体负伤，受到“生者暗黑光击”攻击时伤害会有所提高",15782,0,2,17,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
+1381,"死者之伤","灵魂负伤，受到“死者暗黑光击”攻击时伤害会有所提高",15783,0,2,17,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
+1382,"超越死亡","只有超越死亡才能求得一线生机",15780,0,2,17,20,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1383,"最大体力减少","体力最大值降低",15076,0,2,17,0,false,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,0,false
+1384,"加速度炸弹","身上附着有加速度炸弹，效果时间结束时如未停止行动则会爆炸",15727,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1385,"弱不禁风","受到攻击时绝对会被击飞",15723,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1386,"污泥","土属性持续伤害，体力逐渐流失",18881,16,2,17,0,false,false,false,false,false,false,false,false,false,10,true,0,false,0,false,false,0,0,false
 1387,"技能效果范围变动","技能的效果范围发生了变动",10404,0,1,0,0,false,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,14,false
 1388,"沾灰","身上落满了幽狱灰",15804,0,2,17,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
@@ -1380,3 +1391,4 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1414,"战斗连祷","造成的伤害提高",12578,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1415,"护盾","减轻所受到的伤害",10405,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1416,"固定低位","高度固定的状态，并且不受高度变化效果的影响",15806,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,25,false,0,false,false,0,24,false
+1417,"石化的诅咒","身体变成了石头，受到敌人攻击会立刻陷入无法战斗的状态",15586,0,2,6,1,true,false,true,false,false,true,false,false,false,100,true,0,false,0,false,false,0,21,false

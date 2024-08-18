@@ -285,6 +285,7 @@ Index,0 [UBYTE] [0x18],1 [UBYTE] [0x19],2 [BYTE] [0x1B],3 [BYTE] [0x1C],4 [BYTE]
 542,2,1,2,0,0,"/sneer","","/阴险 子命令<br>/sneer<br>做出阴险的表情。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/阴险","",36,0
 543,2,1,2,0,0,"/prettyplease","/pplease","/撒娇 子命令<br>/prettyplease、/pplease<br>做出撒娇的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/撒娇","",36,0
 544,2,1,2,0,0,"/playdead","/pdead","/装死 子命令<br>/playdead、/pdead<br>在地上装死。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/装死","",36,0
+545,2,1,2,0,0,"/iceheart","","/寒冰的幻想 子命令<br>/iceheart<br>与冰共舞。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/寒冰的幻想","",36,0
 546,2,1,2,0,0,"/moonlift","","/日月之舞 子命令<br>/moonlift<br>跳起日月之舞。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/日月之舞","",36,0
 547,2,1,2,0,0,"/dote","","/表达爱意 子命令<br>/dote<br>表达自己的爱意。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/表达爱意","",36,0
 549,2,1,2,0,0,"/spectacles","","/托眼镜 子命令<br>/spectacles<br>调整自己的眼镜。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/托眼镜","",36,0
