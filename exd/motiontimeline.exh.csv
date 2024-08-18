@@ -1479,7 +1479,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5],3 [BBOOL] [0x5],4 [BBOOL]
 1477,"cbem_loop_emot15_2lp",0,true,false,false
 1478,"cbem_loop_emot16_2lp",0,true,false,false
 1479,"cbem_loop_emot17_2lp",0,true,false,false
-1480,"",0,false,false,false
+1480,"cbem_loop_emot18_2lp",0,true,false,false
 1481,"cbem_sp09_2lp",0,true,false,false
 1482,"cbem_sp10_2lp",0,true,false,false
 1483,"cbem_sp11_2lp",0,true,false,false
@@ -1505,7 +1505,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5],3 [BBOOL] [0x5],4 [BBOOL]
 1503,"cbnm_msc_inst01_play01_1",63,false,false,false
 1504,"cbnm_msc_inst01_play02_1",63,false,false,false
 1505,"cbbm_pc_sky_ded_lp",64,true,false,false
-1506,"",0,false,false,false
+1506,"cbbm_pc_niku_mount_lp",0,true,false,false
 1507,"f_chrhdb72210_23a",21,false,false,true
 1508,"f_stmbdc10840_08a",21,false,false,true
 1509,"",0,false,false,false

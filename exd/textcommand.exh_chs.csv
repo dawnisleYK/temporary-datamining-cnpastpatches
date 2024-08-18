@@ -355,6 +355,7 @@ Index,0 [UBYTE] [0x18],1 [UBYTE] [0x19],2 [BYTE] [0x1B],3 [BYTE] [0x1C],4 [BYTE]
 577,2,1,2,0,0,"/yoldance","","/胡鹰之舞 子命令<br>/yoldance<br>踏起胡鹰之舞。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/胡鹰之舞","",36,0
 579,2,1,2,0,0,"/splash","","/撩水 子命令<br>/splash<br>撩起水花。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/撩水","",36,0
 581,2,1,2,0,0,"/sweat","","/好热 子命令<br>/sweat<br>假装自己很热。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/好热","",36,0
+582,2,1,2,0,0,"/shiver","","/好冷 子命令<br>/shiver<br>模仿很冷的样子。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/好冷","",36,0
 583,2,1,2,0,0,"/elucidate","","/说明 子命令<br>/elucidate<br>进行说明。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/说明","",36,0
 584,2,1,2,0,0,"/ponder","","/思索 子命令<br>/ponder<br>做出思索的表情。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/思索","",36,0
 585,2,1,2,0,0,"/leftwink","","/左飞眼 子命令<br>/leftwink<br>抛出飞眼。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/左飞眼","",36,0

@@ -6,4 +6,4 @@ Index,0 [INT] [0x14],1 [UBYTE] [0x1C],2 [UBYTE] [0x1D],3 [UBYTE] [0x1E],4 [UBYTE
 4,4,0,0,0,0,0,"","","",false,true,"",""
 5,2,5,35,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",false,true,"脱离","快速连击按钮挣脱出来吧！"
 6,2,5,15,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",false,true,"脱离","快速连击按钮挣脱出来吧！"
-7,0,0,0,0,0,0,"","","",false,false,"",""
+7,3,25,20,2,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",true,true,"骑乘攻防","快速连击按钮进行压制！"

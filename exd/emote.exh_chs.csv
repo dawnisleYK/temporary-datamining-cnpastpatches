@@ -180,7 +180,7 @@ Index,0 [STRING] [0x0],1 [USHORT] [0xC],2 [USHORT] [0xE],3 [USHORT] [0x10],4 [US
 178,"撩水",6252,0,0,0,6255,0,0,false,true,false,1,0,false,true,false,false,94,579,64366,8114,8115,270
 179,"",6254,0,0,0,6256,0,0,false,true,false,1,0,false,true,false,false,0,0,64366,8114,8115,270
 180,"好热",6237,6236,0,0,0,0,0,false,false,false,2,42,false,true,false,false,198,581,64367,8116,8117,263
-181,"",0,0,0,0,0,0,0,false,false,false,0,0,false,false,false,false,0,0,0,0,0,0
+181,"好冷",6239,6238,0,0,0,0,0,false,false,false,2,43,false,true,false,false,199,582,64368,8118,8119,264
 182,"说明",6224,0,4830,6225,6225,0,0,true,true,true,1,0,false,true,false,false,137,583,64369,8120,8121,265
 183,"表情：思索",6261,0,6261,6261,6261,6261,0,true,true,true,3,0,false,false,false,false,235,584,64129,8122,8123,68612
 184,"表情：左飞眼",6262,0,6262,6262,6262,6262,0,true,true,true,3,0,false,false,false,false,214,585,64130,8124,8125,0
