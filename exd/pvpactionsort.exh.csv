@@ -1,0 +1,18 @@
+Index,0 [UBYTE] [0x2],1 [USHORT] [0x0],2 [BBOOL] [0x3],3 [BBOOL] [0x3]
+0,0,0,false,false
+1,0,0,true,false
+2,0,0,true,true
+3,0,0,true,false
+4,0,0,true,true
+5,0,0,true,false
+6,0,0,true,true
+7,0,0,true,false
+8,0,0,false,false
+9,0,0,false,true
+10,34,0,false,true
+11,34,0,false,false
+12,0,0,true,true
+13,34,0,false,true
+14,34,0,true,true
+15,34,0,false,false
+16,6,0,false,true

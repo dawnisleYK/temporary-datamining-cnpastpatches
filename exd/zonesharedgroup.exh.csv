@@ -11,3 +11,12 @@ Index,0 [UINT] [0x0],1 [UBYTE] [0x3C],2 [UINT] [0x4],3 [UINT] [0x20],4 [BOOL] [0
 9,95,0,-1820655615,0,false,0,152109056,0,false,1,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
 10,101,0,1681850369,0,false,0,154140672,131072,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
 11,102,0,1022558209,0,false,0,154271745,16711680,false,2,154533888,196608,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+12,105,0,-2078015487,0,false,0,191889408,131072,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+13,103,0,1526530049,0,false,0,166985728,196608,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+14,102,0,-985858047,0,false,0,167313408,327680,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+15,102,0,-2002714623,0,false,0,163250176,65536,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+16,99,0,-902692863,0,false,0,164954112,16711680,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+17,103,0,-2087124991,0,false,0,164954112,16711680,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+18,106,0,123273217,0,false,0,167313408,0,false,1,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+19,105,0,439877633,0,false,0,162267136,196608,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+20,105,0,1550057473,0,false,0,191954944,16711680,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false

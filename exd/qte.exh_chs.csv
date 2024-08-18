@@ -1,0 +1,6 @@
+Index,0 [INT] [0x14],1 [UBYTE] [0x1C],2 [UBYTE] [0x1D],3 [UBYTE] [0x1E],4 [UBYTE] [0x1F],5 [INT] [0x18],6 [STRING] [0x8],7 [STRING] [0xC],8 [STRING] [0x10],9 [BBOOL] [0x20],10 [BBOOL] [0x20],11 [STRING] [0x0],12 [STRING] [0x4]
+0,0,0,0,0,0,0,"","","",false,true,"",""
+1,1,4,0,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",false,true,"脱离","按下按钮跳下来吧！"
+2,2,5,23,0,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",false,true,"脱离","快速连击按钮挣脱出来吧！"
+3,3,25,30,3,0,88,"SE_Bt_Etc_QTE_Ready","SE_Bt_Etc_QTE_Success","SE_Bt_Etc_QTE_Fail",true,true,"拼刀","快速连击按钮抗住攻击！"
+4,4,0,0,0,0,0,"","","",false,true,"",""

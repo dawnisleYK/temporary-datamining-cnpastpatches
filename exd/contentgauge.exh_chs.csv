@@ -1,0 +1,9 @@
+Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [STRING] [0x4],3 [BYTE] [0xA],4 [BYTE] [0xB],5 [UBYTE] [0x9]
+0,"",0,"",-1,1,0
+1,"",0,"",0,0,0
+2,"",0,"",0,0,0
+3,"偏属性以太",4,"ContentGaugeMax_negative",80,1,2
+4,"以太填充率",2,"ContentGaugeMax_negative",-1,1,0
+5,"大地之契约",3,"ContentGaugeMax_negative",-1,1,0
+6,"捡到的钱",2,"ContentGaugeMax_negative",-1,1,0
+7,"魅惑拥抱",4,"ContentGaugeMax_negative",-1,1,0

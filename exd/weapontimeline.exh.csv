@@ -93,3 +93,12 @@ Index,0 [STRING] [0x0],1 [SHORT] [0x4]
 91,"weapon/emote/battle_emote_02_close_open",-1
 92,"weapon/craft_gather_start",-1
 93,"weapon/craft_gather_idle2",-1
+94,"weapon/ability/dgr_ninja/kaeru",-1
+95,"weapon/samurai_action/katana_iai_close",-1
+96,"weapon/samurai_action/katana_iai_dot",-1
+97,"weapon/samurai_action/katana_lbk",-1
+98,"weapon/ability/swl_summon/abl030_close_open",-1
+99,"weapon/event_base/event_base_pinwheel",-1
+100,"weapon/samurai_action/katana_lbk_bm",-1
+101,"weapon/samurai_action/saya_lbk",-1
+102,"weapon/swim_normal_idle",-1
