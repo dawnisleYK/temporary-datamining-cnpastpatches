@@ -1,0 +1,12 @@
+Index,0 [USHORT] [0x30],1 [STRING] [0x0],2 [BOOL] [0x38],3 [BOOL] [0x3C],4 [FLOAT] [0x10],5 [FLOAT] [0x20],6 [USHORT] [0x32],7 [STRING] [0x4],8 [BOOL] [0x39],9 [BOOL] [0x3D],10 [FLOAT] [0x14],11 [FLOAT] [0x24],12 [USHORT] [0x34],13 [STRING] [0x8],14 [BOOL] [0x3A],15 [BOOL] [0x3E],16 [FLOAT] [0x18],17 [FLOAT] [0x28],18 [USHORT] [0x36],19 [STRING] [0xC],20 [BOOL] [0x3B],21 [BOOL] [0x3F],22 [FLOAT] [0x1C],23 [FLOAT] [0x2C]
+0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+1,266,"atr_parts_tail",true,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+2,642,"",false,true,0.0,0.0,642,"",false,true,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+3,1507,"atr_parts_heart",false,false,0.0,1.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+4,1508,"atr_parts_heart",false,false,0.0,1.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+5,1509,"atr_parts_heart",false,false,0.0,1.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+6,2042,"atr_parts_breast",true,false,0.0,0.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+7,2689,"",false,false,0.0,0.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+8,2766,"",false,false,0.0,2.4,2767,"",false,false,0.0,2.4,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+9,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+10,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0

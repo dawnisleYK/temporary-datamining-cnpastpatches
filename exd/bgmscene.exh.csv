@@ -1,0 +1,9 @@
+Index,0 [BOOL] [0x0],1 [BOOL] [0x1],2 [BOOL] [0x2],3 [BOOL] [0x3],4 [BOOL] [0x4]
+0,false,true,false,false,false
+1,false,true,false,false,false
+2,false,false,false,false,false
+3,false,true,false,true,false
+4,false,true,false,true,false
+5,true,false,false,true,false
+6,true,false,true,true,true
+7,true,false,true,true,true
