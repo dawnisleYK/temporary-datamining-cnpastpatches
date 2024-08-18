@@ -521,6 +521,9 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0x6]
 2072,"KrNewPublic3",0,0,false
 2073,"KrNewPublic4",0,0,false
 2074,"KrNewPublic5",0,0,false
+2075,"KrCarbuncle",0,0,false
+2076,"KrChocobo",0,0,false
+2077,"KrMoogle",0,0,false
 2560,"koreacontents1",0,0,false
 2561,"koreacontents2",0,0,false
 2562,"krcontents1",0,0,false

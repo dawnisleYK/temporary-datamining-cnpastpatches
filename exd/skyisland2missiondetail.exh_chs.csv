@@ -1,0 +1,2 @@
+Index,0 [UBYTE] [0x1C],1 [UBYTE] [0x1D],2 [UBYTE] [0x1E],3 [BYTE] [0x1F],4 [UINT] [0x10],5 [UINT] [0x14],6 [UINT] [0x18],7 [STRING] [0x0],8 [STRING] [0x4],9 [STRING] [0x8],10 [STRING] [0xC]
+0,0,0,0,-1,0,0,0,"","","",""

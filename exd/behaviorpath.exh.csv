@@ -77,3 +77,15 @@ Index,0 [BBOOL] [0x4],1 [BBOOL] [0x4],2 [BBOOL] [0x4],3 [BBOOL] [0x4],4 [BBOOL] 
 75,true,true,true,false,true,1.01
 76,true,true,true,false,true,1.2
 77,true,true,true,false,true,1.5
+78,false,false,false,false,true,7.0
+79,false,false,false,true,true,7.0
+80,false,false,true,false,true,7.0
+81,false,true,false,false,true,7.0
+82,false,false,true,true,true,7.0
+83,false,true,false,true,true,7.0
+84,false,false,false,false,false,7.0
+85,false,false,false,true,false,7.0
+86,false,false,true,false,false,7.0
+87,false,true,false,false,false,7.0
+88,false,false,true,true,false,7.0
+89,false,true,false,true,false,7.0

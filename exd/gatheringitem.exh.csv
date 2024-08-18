@@ -283,7 +283,7 @@ Index,0 [INT] [0x0],1 [USHORT] [0x4],2 [BBOOL] [0x6]
 281,5151,70,false
 282,8031,70,false
 283,5365,70,false
-284,8024,70,true
+284,8024,70,false
 285,5120,80,false
 286,5394,80,false
 287,9519,80,false

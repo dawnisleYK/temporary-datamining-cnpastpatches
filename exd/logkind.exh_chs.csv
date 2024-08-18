@@ -30,8 +30,8 @@ Index,0 [UBYTE] [0xC],1 [STRING] [0x0],2 [STRING] [0x4],3 [STRING] [0x8],4 [UBYT
 28,0,"<color?><value><value></color>","自定义情感表现","",1
 29,50,"<color?><value></color>","情感表现","",1
 30,0,"<color?><value>：<value></color>","呼喊","",1
-31,0,"","","",0
-32,0,"","","",0
+31,0,"<color?>(<value>) <value></color>","","",0
+32,0,"<color?>(<value>) <value></color>","Party","",1
 33,0,"","","",0
 34,0,"","","",0
 35,0,"","","",0

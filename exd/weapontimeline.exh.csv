@@ -91,3 +91,5 @@ Index,0 [STRING] [0x0],1 [SHORT] [0x4]
 89,"weapon/gun_action/attach_hide_loop",-1
 90,"weapon/gauntlet_action/cancel_bend_wrist",-1
 91,"weapon/emote/battle_emote_02_close_open",-1
+92,"weapon/craft_gather_start",-1
+93,"weapon/craft_gather_idle2",-1

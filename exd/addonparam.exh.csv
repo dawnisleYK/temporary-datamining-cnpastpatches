@@ -187,3 +187,14 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 372,"DeepDungeonMenu",80
 373,"DeepDungeonResult",80
 374,"ItemAppraisal",80
+377,"ItemInspectionList",50
+378,"ItemInspection",80
+379,"ItemInspectionResult",80
+380,"Relic2Glass",50
+381,"LookingForGroupPrivate",80
+384,"ContactList",50
+386,"BeginnerChatInviteDialog",50
+387,"ReturnerDialog",50
+388,"ReturnerDialogDetail",80
+389,"SatisfactionSupply",85
+390,"SatisfactionSupplyResult",85

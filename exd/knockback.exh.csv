@@ -100,8 +100,8 @@ Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [BBOOL] [0x5],3 [UBYTE] [0x2],4 [UBYTE] 
 98,30,60,true,0,6,0,true
 99,10,20,true,0,3,0,false
 100,15,30,true,0,3,0,false
-101,0,0,true,0,0,0,true
-102,0,0,true,0,0,0,true
-103,0,0,true,0,0,0,true
+101,6,12,true,0,6,0,true
+102,30,30,true,0,0,0,false
+103,20,20,true,0,6,0,true
 104,0,0,true,0,0,0,true
 105,0,0,true,0,0,0,true

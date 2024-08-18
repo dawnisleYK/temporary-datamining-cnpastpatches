@@ -9,3 +9,5 @@ Index,0 [UINT] [0x0],1 [UBYTE] [0x3C],2 [UINT] [0x4],3 [UINT] [0x20],4 [BOOL] [0
 7,90,0,627638273,0,false,0,108658688,16711680,false,2,0,0,true,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
 8,93,0,1005780993,0,false,0,141819904,0,false,1,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
 9,95,0,-1820655615,0,false,0,152109056,0,false,1,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+10,101,0,1681850369,0,false,0,154140672,131072,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false
+11,102,0,1022558209,0,false,0,154271745,16711680,false,2,154533888,196608,false,2,0,0,false,0,0,0,false,0,0,0,false,0,0,0,false

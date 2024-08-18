@@ -128,5 +128,15 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x8],3 [BBOOL] [0xA],4 [BBOOL
 126,"m0344_quasar01bh","",2,true,false,0
 127,"m0012bitlz_o0t","",4,true,false,0
 128,"gl_fan210_1bf","",3,true,false,0
-129,"","",0,true,false,0
-130,"","",0,true,false,0
+129,"m0347hadou_o0t","",4,true,false,0
+130,"m0347tossin_o0t","",4,true,false,0
+131,"m0375handc0c","",2,true,false,4
+132,"m0307_aeroga0h","",2,true,false,0
+133,"m0307_aeroja0h","",4,true,false,0
+134,"m0307_blizzaga0h","",3,true,false,0
+135,"m0307_death0h","",2,true,false,0
+136,"gl_sircle_1034bf","",2,true,false,0
+137,"gl_sircle_3014bf","",2,true,false,0
+138,"gl_blu_lz01af","",4,true,false,0
+139,"","",0,true,false,0
+140,"","",0,true,false,0
