@@ -1495,7 +1495,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1493,"病毒模拟程序","已加载病毒模拟程序",15841,0,1,16,0,false,false,false,false,false,false,false,true,true,0,false,0,false,0,false,false,0,0,false
 1494,"公演观众","观看公演的状态",15853,0,1,16,0,false,false,false,false,true,false,false,false,false,100,false,2,false,0,false,false,0,9,false
 1495,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1496,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1496,"放逐","在魔法的作用下变得透明，能避开敌人或陷阱等威胁",16706,0,1,16,0,false,false,false,false,false,false,false,false,false,100,false,0,false,0,false,true,0,2,false
 1497,"拘束","无法做出任何行动",15545,0,2,17,71,true,false,true,true,false,false,false,true,false,100,false,4,false,0,false,false,0,0,false
 1498,"震荡","受到了强烈冲击，偶尔会无法行动，体力逐渐流失",15852,0,2,28,0,false,false,false,false,false,false,false,false,false,100,false,0,true,0,false,false,0,0,false
 1499,"战章过重","由于所持战章数量太多而导致重量过重，防御动作缓慢。受到攻击的伤害会随积累的层数的增加而增加",18681,0,2,17,0,false,false,false,false,false,false,false,true,true,200,false,0,true,0,false,false,0,0,false
@@ -1545,10 +1545,10 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1543,"幻影","实体化的幻影",15883,0,1,16,69,false,false,false,false,false,false,false,true,true,0,false,0,false,0,false,false,0,0,false
 1544,"伤害提高","攻击所造成的伤害提高",17061,2,1,16,0,false,false,false,false,false,false,false,true,true,2,false,0,false,0,false,false,0,0,false
 1545,"受伤减轻","受到攻击的伤害减少",17301,2,1,16,0,false,false,false,false,false,false,false,true,true,1,false,0,false,0,false,false,0,0,false
-1546,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1546,"獭獭","变成了獭獭，无法发动任何技能",16707,0,2,17,0,false,false,false,false,true,false,false,false,false,100,false,2,false,0,false,false,0,9,false
 1547,"潜能","超出了极限，能够提升最大体力，同时攻击造成的伤害及治疗魔法的治疗量也会增加",15869,0,1,16,0,false,false,false,false,false,false,false,true,true,0,false,0,false,0,false,false,0,0,false
-1548,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1549,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1548,"冲刺","移动速度提高",10101,0,1,0,0,false,false,false,false,false,false,false,true,true,1,false,0,true,0,false,false,0,6,false
+1549,"禁用魔石","禁止使用魔石",16708,0,2,17,0,false,false,false,false,false,false,false,true,true,50,false,0,false,0,false,false,0,0,false
 1550,"磁场崩坏 正极","受到了磁场的影响，带有正极磁力",15854,0,2,17,60,false,false,false,false,false,false,false,false,false,1,false,0,false,0,false,false,0,0,false
 1551,"磁场崩坏 负极","受到了磁场的影响，带有负极磁力",15855,0,2,17,61,false,false,false,false,false,false,false,false,false,1,false,0,false,0,false,false,0,0,false
 1552,"磁悬浮","借助磁力浮在空中",15066,0,2,17,73,false,false,false,false,false,false,false,false,false,1,false,12,false,0,false,false,0,0,false
@@ -1566,7 +1566,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1564,"灭绝芯片","读取了灭绝芯片的状态",15877,0,1,16,0,false,false,false,false,false,false,false,true,true,0,false,0,false,0,false,false,0,0,false
 1565,"回答正确","正确回答算术问题，攻击所造成的伤害提高",19301,6,1,16,0,false,false,false,false,false,false,false,true,true,100,false,0,false,0,false,false,0,0,false
 1566,"回答错误","答错了算术问题，受到攻击的伤害增加",19321,6,2,17,0,false,false,false,false,false,false,false,true,true,50,false,0,false,0,false,false,0,0,false
-1567,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1567,"召唤兽的加护","受到了召唤兽的加护，处于暂时无敌的状态",16709,0,1,16,0,false,false,false,false,false,false,false,false,false,1,false,0,false,0,false,false,0,0,false
 1568,"减速＋","自动攻击间隔延长，同时战技与魔法的咏唱及复唱时间也会延长，而且无法解除",17361,16,2,13,0,false,false,false,false,false,false,false,true,true,100,false,0,false,0,false,false,0,0,false
 1569,"瑞兽化","暂时获得了瑞兽的力量",15868,0,1,16,0,false,false,false,false,true,false,false,true,true,0,false,2,false,0,false,false,0,9,false
 1570,"无敌","一切攻击都无法造成伤害",15024,0,1,16,0,false,false,false,false,false,false,false,false,false,200,false,0,false,0,false,false,0,12,false
@@ -1575,7 +1575,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1573,"怨念","将自身所受的伤害转化为怨念",15044,0,2,17,35,false,false,false,false,false,false,false,true,false,200,false,0,false,0,false,false,0,0,false
 1574,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1575,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1576,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1576,"石化の呪い","石化した状態。攻撃を受けると戦闘不能になる。",15586,0,2,6,1,true,false,true,false,false,true,false,false,false,100,false,0,false,0,false,false,0,21,false
 1577,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1578,"灼热","向周围散布灼热，同时会受到火属性的持续伤害",15560,0,2,17,0,false,false,false,false,false,false,false,false,false,200,false,0,false,0,false,false,0,0,false
 1579,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
@@ -1583,20 +1583,20 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1581,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1582,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1583,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1584,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1585,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1586,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1584,"狛犬的神通力","受到狛犬神通力的影响，攻击所造成的伤害提高",16710,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,true,0,false,false,0,0,false
+1585,"犬神的神通力","受到犬神神通力的影响，受到的伤害降低",16711,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,true,0,false,false,0,0,false
+1586,"仙狸的神通力","受到仙狸神通力的影响，体力会随时间逐渐恢复",16712,0,1,16,0,false,false,false,false,false,false,false,false,false,0,false,0,true,0,false,false,0,0,false
 1587,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1588,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1589,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1590,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1590,"火焰妖异","吸收了深空火炬的火焰转化为自身的魔力",15100,0,1,16,0,false,false,false,false,false,false,false,true,true,200,false,0,false,0,false,false,0,0,false
 1591,"觉醒","得到了以太供应，获得了强大的力量",15863,0,1,16,0,false,false,false,false,false,false,false,true,true,1,false,0,false,0,false,false,0,0,false
 1592,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1593,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1594,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1595,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1596,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1597,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1597,"受伤加重","受到攻击的伤害增加",17101,16,2,17,0,false,false,false,false,false,false,false,false,false,50,false,0,false,0,false,false,0,0,false
 1598,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1599,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1600,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false

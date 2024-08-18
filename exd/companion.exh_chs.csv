@@ -291,8 +291,8 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x8],2 [STRING] [0x4],3 [BYTE] [0x9],4 [BYTE] [
 289,"金鲶",0,"",0,0,1,0,0,2221,100,10,0,0,0,2,0,8,290,false,true,true,false,false,0,false,true,4789,6002,true,0,30,560,25,360,20,1,625,3
 290,"齐天小圣",0,"",0,0,1,0,0,2238,100,10,0,0,0,2,0,8,360,false,false,true,false,true,0,false,true,4801,1074,false,0,30,620,1,30,20,1,604,2
 291,"发条提灯",0,"",0,0,1,0,0,2239,100,10,0,0,0,1,0,8,0,false,false,false,false,false,0,false,true,4800,11019,false,0,25,650,35,360,30,2,634,4
-292,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,false,false,false,0,false,false,0,0,false,0,0,0,0,0,0,0,0,0
-293,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,false,false,false,0,false,false,0,0,false,0,0,0,0,0,0,0,0,0
+292,"伞蜥",0,"",0,0,1,0,0,2240,100,10,0,0,0,2,0,8,362,true,false,true,false,true,0,false,true,4795,3017,false,0,10,400,18,360,30,1,624,1
+293,"迷你其日娜",0,"",0,0,1,0,0,2241,100,10,0,0,0,1,0,8,363,false,true,false,true,false,0,false,true,4797,9032,false,0,10,410,43,0,20,1,620,3
 294,"迷你纱都",0,"",0,0,1,0,0,2242,100,10,0,0,0,1,0,8,364,false,true,false,true,false,282,false,true,4796,9034,false,0,30,500,5,360,30,2,600,3
 295,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,false,false,false,0,false,false,0,0,false,0,0,0,0,0,0,0,0,0
 296,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,false,false,false,false,false,0,false,false,0,0,false,0,0,0,0,0,0,0,0,0

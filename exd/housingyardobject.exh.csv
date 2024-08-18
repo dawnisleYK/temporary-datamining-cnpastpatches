@@ -176,7 +176,10 @@ Index,0 [UBYTE] [0xC],1 [UBYTE] [0xD],2 [UBYTE] [0xE],3 [UINT] [0x0],4 [UBYTE] [
 131250,167,17,0,0,0,0,21864,false,false,true,0,0,0,false
 131251,168,17,0,0,0,0,21865,false,false,true,0,0,0,false
 131252,169,17,0,0,0,0,21866,false,false,true,0,0,0,false
+131254,171,17,0,0,0,0,22579,false,false,true,0,0,0,false
 131255,112,17,0,0,0,0,21873,false,false,true,3,0,0,false
 131257,179,17,18,0,77,721373,22520,false,false,true,0,0,0,true
 131258,172,17,0,0,0,0,22580,false,false,true,0,0,0,false
+131259,173,17,0,0,0,0,22581,false,false,true,0,0,0,false
+131263,177,17,0,0,0,0,22582,false,false,true,0,0,0,false
 131265,180,17,0,0,0,0,22584,false,false,true,5,0,0,false

@@ -6155,10 +6155,10 @@ Index,0 [UBYTE] [0x6],1 [UBYTE] [0x7],2 [BBOOL] [0x10],3 [UBYTE] [0x8],4 [UBYTE]
 6153,0,3,true,0,0,1,"pc_contentsaction/blow2_loop",0,0,1,0,0,0,false,false,false,false,true
 6154,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
 6155,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-6156,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-6157,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-6158,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-6159,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
+6156,0,3,false,0,0,1,"pc_contentsaction/item15",0,2,1,2,0,0,false,false,false,false,true
+6157,0,3,false,0,0,1,"pc_contentsaction/item16",0,2,1,2,0,0,false,false,false,false,true
+6158,0,3,false,0,0,1,"pc_contentsaction/item17",0,2,1,2,0,0,false,false,false,false,true
+6159,0,3,false,0,0,1,"pc_contentsaction/item18",0,2,1,2,0,0,false,false,false,false,true
 6160,0,4,false,0,0,1,"pc_contentsaction/pc_disappear",0,0,0,0,0,0,false,false,false,false,true
 6161,0,2,true,0,0,1,"pc_contentsaction/dizzy_loop",0,0,1,0,3,0,false,false,false,false,true
 6162,0,3,false,0,0,1,"pc_contentsaction/blowoff_pc_short",0,1,1,1,0,0,false,true,false,false,true
@@ -6235,8 +6235,8 @@ Index,0 [UBYTE] [0x6],1 [UBYTE] [0x7],2 [BBOOL] [0x10],3 [UBYTE] [0x8],4 [UBYTE]
 6233,0,0,true,0,0,1,"emote/loop_emot15_loop",0,2,1,2,0,0,true,true,false,false,true
 6234,0,1,false,0,0,0,"emote/loop_emot16_start",0,2,0,2,0,0,true,true,false,false,true
 6235,0,0,true,0,0,2,"emote/loop_emot16_loop",0,2,1,2,0,0,true,true,false,false,true
-6236,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-6237,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
+6236,0,1,false,0,0,0,"emote/loop_emot17_start",0,2,0,2,0,0,true,true,false,false,true
+6237,0,0,true,0,0,3,"emote/loop_emot17_loop",0,2,1,2,0,0,true,true,false,false,true
 6238,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
 6239,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
 6240,0,1,false,0,0,1,"emote_sp/sp08",0,2,1,2,0,0,true,true,false,false,true
@@ -6436,7 +6436,7 @@ Index,0 [UBYTE] [0x6],1 [UBYTE] [0x7],2 [BBOOL] [0x10],3 [UBYTE] [0x8],4 [UBYTE]
 6434,0,3,false,0,0,1,"human_sp/c0901/human_sp042",0,1,1,1,0,0,false,false,false,false,true
 6435,0,3,false,0,0,1,"human_sp/c0901/human_sp043",0,1,1,1,0,0,false,false,false,false,true
 6436,0,3,false,0,0,1,"human_sp/c0901/human_sp044",0,1,1,1,0,0,false,false,false,false,true
-6437,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
+6437,0,3,false,0,0,1,"mount_sp/m0100/mount_sp020",0,1,1,1,1,0,false,false,false,false,true
 6438,0,3,false,0,0,0,"mon_sp/gimmick/w1fz_boss_gimmick07",0,0,0,0,0,0,false,false,false,false,true
 6439,0,3,false,0,0,1,"human_sp/c0101/human_sp068",0,1,1,1,0,0,false,false,false,false,true
 6440,0,3,false,0,0,0,"mon_sp/gimmick/z3r2_boss2_gimmick01",0,0,0,0,0,0,false,false,false,false,true
