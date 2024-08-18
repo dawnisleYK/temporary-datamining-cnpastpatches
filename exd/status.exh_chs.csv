@@ -1419,7 +1419,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1417,"石化的诅咒","身体变成了石头，受到敌人攻击会立刻陷入无法战斗的状态",15586,0,2,6,1,true,false,true,false,false,true,false,false,false,100,true,0,false,0,false,false,0,21,false
 1418,"孤独感","一旦离开同伴过远便会陷入恐慌状态",15649,0,2,17,40,false,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0,false
 1419,"神龙诅咒","受到了神龙的诅咒，一切体力恢复效果失效，且体力逐渐减少，但可通过发动攻击逐渐恢复体力",15815,0,2,17,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,29,false
-1420,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1420,"搭乘","乘上了机动兵器，所有对自身发动的治疗魔法均没有体力恢复效果",15821,0,1,16,0,false,false,true,false,true,false,false,true,true,200,true,2,true,0,false,false,0,9,false
 1421,"弱鸡","丧失所有勇气，变成胆小鬼的状态，受到攻击的伤害增加",15810,0,2,17,0,false,false,true,true,true,false,false,false,false,100,true,2,false,0,false,false,0,9,false
 1422,"精神失常","精神失常的状态，只能朝光标指示的方向移动",15809,0,2,17,43,false,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0,false
 1423,"变身","变成了其他形态，失去了自我",15811,0,2,17,0,false,false,false,true,true,false,false,false,false,100,true,2,false,0,false,false,0,9,false
@@ -1430,8 +1430,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1428,"削除予定","削除予定",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1429,"呼吸困难","有毒的水导致呼吸困难，积攒到10档之后会陷入无法战斗状态",18981,10,2,17,37,false,false,false,false,false,false,false,true,true,250,true,10,false,0,false,false,0,0,false
 1430,"神话决战","神龙解放了真正的力量，一决胜负的状态",15816,0,1,16,0,false,false,false,false,true,false,false,true,true,200,true,2,false,0,false,false,0,9,false
-1431,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1432,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1431,"塔结界","受到了塔结界的影响，体力会随时间逐渐恢复，受到攻击的伤害减少一半",15822,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,true,0,false,false,0,0,false
+1432,"塔结界","塔结界在运转",15823,0,1,16,0,false,false,false,false,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
 1433,"变身","变成了其他形态",16214,0,1,16,0,false,false,false,false,true,false,false,true,true,100,true,2,false,0,false,false,0,9,false
 1434,"魔力过敏","变得对魔力过敏，被“魔力爆散”攻击所受到的伤害会大幅提高",15817,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
 1435,"突刺耐性大幅降低","对抗突刺属性的耐性有显著降低",15818,0,2,17,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
@@ -1442,8 +1442,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1440,"攻势作战","重视攻击的状态，攻击所造成的伤害提高",19121,5,1,16,0,false,false,false,true,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
 1441,"守势作战","重视防御的状态，体力最大值提高，受到攻击的伤害减少",19141,5,1,16,0,false,false,false,true,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
 1442,"定式作战","重视平衡的状态，体力最大值提高，攻击所造成的伤害提高",19161,5,1,16,0,false,false,false,true,false,false,false,true,true,0,true,0,false,0,false,false,0,0,false
-1443,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1444,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1443,"机关启动","所有机关启动的状态，倒计时为0时停止",15825,0,2,0,0,false,false,false,false,false,false,false,false,false,200,true,0,false,0,false,false,0,0,false
+1444,"魔导结界","塔结界在运转，一切攻击都无法造成伤害",15824,0,1,16,0,false,false,false,false,false,false,false,true,true,0,true,0,false,0,false,false,0,12,false
 1445,"伪神面具","戴上伪神面具的状态",15812,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
 1446,"真神面具","戴上真神面具的状态",15813,0,1,16,0,false,false,false,false,false,false,false,true,true,200,true,0,false,0,false,false,0,0,false
 1447,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
@@ -1464,7 +1464,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1462,"无法发动技能","无法发出任何技能",15045,0,2,17,0,false,false,false,false,false,false,false,true,true,100,true,19,false,0,false,false,0,24,false
 1463,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1464,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
-1465,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
+1465,"气势","取得战果，气势高昂的状态，攻击造成的伤害及治疗魔法的治疗量增加，所受到的伤害减轻",19181,10,1,16,0,false,false,false,false,false,false,false,true,true,0,false,0,true,0,false,false,0,0,false
 1466,"刺傷","突属性ダメージにより、ＨＰが徐々に失われる状態。",15522,0,2,17,0,false,false,false,false,false,false,false,false,false,10,true,0,false,0,false,false,0,0,false
 1467,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1468,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false

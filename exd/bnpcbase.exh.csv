@@ -8033,6 +8033,8 @@ Index,0 [USHORT] [0x8],1 [UBYTE] [0x12],2 [UBYTE] [0x13],3 [UBYTE] [0x14],4 [FLO
 8060,0,4,0,0,0.9,1992,0,0,0,0,false,0,0,true,true,true,true,0
 8061,0,0,0,0,1.0,488,0,0,0,2,true,0,0,true,true,false,false,0
 8062,0,4,0,0,1.0,480,0,0,0,2,true,0,0,true,false,false,true,0
+8063,0,4,0,0,7.0,480,0,0,0,2,true,0,0,true,false,false,true,0
+8064,0,4,0,0,3.0,480,0,0,0,2,true,0,0,true,false,false,true,0
 8067,0,4,0,0,3.0,2037,0,0,0,0,false,0,0,true,true,true,true,0
 8068,0,4,0,0,2.0,2091,0,0,0,0,true,0,0,true,true,true,true,0
 8069,0,4,0,0,1.0,83,0,0,0,0,false,0,0,true,true,true,true,0
@@ -8048,6 +8050,10 @@ Index,0 [USHORT] [0x8],1 [UBYTE] [0x12],2 [UBYTE] [0x13],3 [UBYTE] [0x14],4 [FLO
 8080,0,4,0,0,1.0,1985,0,0,0,0,false,0,0,true,true,true,true,0
 8081,0,4,0,0,6.0,2008,0,0,0,0,false,0,0,true,true,true,true,0
 8082,0,0,0,0,2.0,2009,0,0,0,0,false,0,0,true,true,true,true,0
+8083,0,0,0,0,2.0,1431,0,1621,0,11,false,0,0,true,false,true,true,0
+8084,0,1,0,0,2.0,1431,0,1620,0,11,false,0,0,true,false,true,true,0
+8085,0,0,0,0,2.0,1431,0,1623,0,11,false,0,0,true,false,true,true,0
+8086,0,1,0,0,2.0,1431,0,1622,0,11,false,0,0,true,false,true,true,0
 8087,0,4,0,2,1.0,2084,0,0,0,16,false,0,0,true,true,true,true,0
 8088,0,4,0,0,1.0,2103,0,0,0,2,true,0,0,true,false,false,true,0
 8089,0,4,0,0,1.0,0,833,1629,7641,0,false,0,0,true,true,true,true,0

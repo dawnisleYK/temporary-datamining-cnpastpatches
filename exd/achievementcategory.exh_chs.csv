@@ -6,7 +6,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5],3 [BBOOL] [0x5]
 4,"大型任务",1,true,false
 5,"竞技场",1,true,false
 6,"纷争前线",1,true,false
-7,"",0,false,false
+7,"烈羽争锋",1,true,false
 8,"对战排名",1,true,true
 9,"怪物狩猎",1,true,false
 10,"寻宝",1,true,false
