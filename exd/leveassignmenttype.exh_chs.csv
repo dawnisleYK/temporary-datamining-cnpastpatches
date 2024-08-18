@@ -1,4 +1,4 @@
-Index,0 [BOOL] [0x8],1 [INT] [0x4],2 [STRING] [0x0]
+Index,0 [BBOOL] [0x8],1 [INT] [0x4],2 [STRING] [0x0]
 0,false,0,""
 1,false,62501,"佣兵作业"
 2,false,62510,"采矿工"

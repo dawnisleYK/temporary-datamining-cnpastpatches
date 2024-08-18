@@ -1,4 +1,4 @@
-Index,0 [BOOL] [0x0],1 [BOOL] [0x1],2 [BOOL] [0x2],3 [BOOL] [0x3]
+Index,0 [BBOOL] [0x0],1 [BBOOL] [0x0],2 [BBOOL] [0x0],3 [BBOOL] [0x0]
 0,true,false,false,false
 1,true,true,true,false
 2,false,true,true,false

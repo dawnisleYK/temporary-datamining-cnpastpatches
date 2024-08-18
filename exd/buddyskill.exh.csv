@@ -1,4 +1,4 @@
-Index,0 [UBYTE] [0x6],1 [BOOL] [0x7],2 [USHORT] [0x0],3 [USHORT] [0x2],4 [USHORT] [0x4]
+Index,0 [UBYTE] [0x6],1 [BBOOL] [0x7],2 [USHORT] [0x0],3 [USHORT] [0x2],4 [USHORT] [0x4]
 0,0,false,0,0,0
 1,1,true,820,824,828
 2,2,false,128,134,140

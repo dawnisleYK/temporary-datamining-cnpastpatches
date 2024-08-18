@@ -1,0 +1,10 @@
+Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [BBOOL] [0x9],3 [BBOOL] [0x9],4 [BBOOL] [0x9],5 [BBOOL] [0x9],6 [UBYTE] [0x8]
+0,0,0,false,true,false,false,0
+1,50,51,false,true,true,false,11
+2,52,53,false,true,true,true,11
+3,88,89,false,true,true,true,11
+4,101,0,true,false,false,false,3
+5,102,0,true,false,false,false,3
+6,103,0,true,false,false,false,3
+7,104,0,true,false,false,false,3
+8,109,0,true,true,false,false,3

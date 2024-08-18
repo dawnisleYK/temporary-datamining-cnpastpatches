@@ -1,4 +1,4 @@
-Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BOOL] [0xA],3 [BOOL] [0xB],4 [BOOL] [0xC],5 [FLOAT] [0x4],6 [UBYTE] [0x9]
+Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BBOOL] [0xA],3 [BBOOL] [0xA],4 [BBOOL] [0xA],5 [FLOAT] [0x4],6 [UBYTE] [0x9]
 0,"",0,false,false,true,90.0,0
 1,"music/ffxiv/BGM_Null.scd",0,false,false,true,90.0,0
 2,"music/ffxiv/BGM_System_Title.scd",1,false,false,true,90.0,0
@@ -210,13 +210,23 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BOOL] [0xA],3 [BOOL] [0xB],4 [BOOL] [0
 208,"music/ffxiv/BGM_Dungeon_Lim_05.scd",1,false,false,true,90.0,0
 209,"music/ffxiv/BGM_Dungeon_Uru_06.scd",1,false,false,true,90.0,0
 210,"music/ffxiv/BGM_Dungeon_Uru_05.scd",1,false,false,true,90.0,0
-211,"",0,false,false,true,90.0,0
-212,"",0,false,false,true,90.0,0
-213,"",0,false,false,true,90.0,0
-214,"",0,false,false,true,90.0,0
-215,"",0,false,false,true,90.0,0
-216,"",0,false,false,true,90.0,0
-217,"",0,false,false,true,90.0,0
-218,"",0,false,false,true,90.0,0
-219,"",0,false,false,true,90.0,0
-220,"",0,false,false,true,90.0,0
+211,"music/ffxiv/BGM_Event_Sad2.scd",1,false,false,true,90.0,0
+212,"music/ffxiv/BGM_Event_UneDoga.scd",1,false,false,true,90.0,0
+213,"music/ffxiv/BGM_Season_China01.scd",1,false,false,true,90.0,0
+214,"music/ffxiv/BGM_Season_SummerFes.scd",1,false,false,true,90.0,0
+215,"music/ffxiv/BGM_Field_BanColony_Ixal.scd",1,false,false,true,90.0,0
+216,"music/ffxiv/BGM_Dungeon_Lim_06.scd",1,false,false,true,90.0,0
+217,"music/ffxiv/BGM_Dungeon_Gri_07.scd",1,false,false,true,90.0,0
+218,"music/ffxiv/BGM_Con_CrystalTower_02.scd",1,false,false,true,90.0,1
+219,"music/ffxiv/BGM_PvP_Intro.scd",1,false,false,true,90.0,0
+220,"music/ffxiv/BGM_PvP_Battle.scd",1,false,false,true,90.0,1
+221,"music/ffxiv/BGM_Ban_Ramuh.scd",1,false,false,true,90.0,0
+222,"music/ffxiv/BGM_Minigame_Puzzle.scd",1,false,false,true,90.0,0
+223,"music/ffxiv/BGM_Event_Gendaishi.scd",1,false,false,true,90.0,0
+224,"music/ffxiv/BGM_Event_ChocoboEducation.scd",1,false,false,true,90.0,0
+225,"music/ffxiv/BGM_Event_IshKyoko.scd",1,false,false,true,90.0,0
+226,"music/ffxiv/BGM_Season_Answers.scd",1,false,false,true,90.0,0
+227,"",0,false,false,true,90.0,0
+228,"",0,false,false,true,90.0,0
+229,"",0,false,false,true,90.0,0
+230,"",0,false,false,true,90.0,0

@@ -1,7 +1,7 @@
-Index,0 [UINT] [0x60],1 [STRING] [0x5C],2 [BOOL] [0x64],3 [STRING] [0x0],4 [STRING] [0x8],5 [STRING] [0x10],6 [STRING] [0x18],7 [STRING] [0x20],8 [STRING] [0x28],9 [STRING] [0x30],10 [STRING] [0x38],11 [STRING] [0x40],12 [STRING] [0x48],13 [UINT] [0x4],14 [UINT] [0xC],15 [UINT] [0x14],16 [UINT] [0x1C],17 [UINT] [0x24],18 [UINT] [0x2C],19 [UINT] [0x34],20 [UINT] [0x3C],21 [UINT] [0x44],22 [UINT] [0x4C],23 [STRING] [0x50],24 [STRING] [0x54],25 [STRING] [0x58]
+Index,0 [UINT] [0x60],1 [STRING] [0x5C],2 [BBOOL] [0x64],3 [STRING] [0x0],4 [STRING] [0x8],5 [STRING] [0x10],6 [STRING] [0x18],7 [STRING] [0x20],8 [STRING] [0x28],9 [STRING] [0x30],10 [STRING] [0x38],11 [STRING] [0x40],12 [STRING] [0x48],13 [UINT] [0x4],14 [UINT] [0xC],15 [UINT] [0x14],16 [UINT] [0x1C],17 [UINT] [0x24],18 [UINT] [0x2C],19 [UINT] [0x34],20 [UINT] [0x3C],21 [UINT] [0x44],22 [UINT] [0x4C],23 [STRING] [0x50],24 [STRING] [0x54],25 [STRING] [0x58]
 0,0,"",false,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
 1,0,"",false,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","是","否"
-2,60311,"WarpRentalChocobo",true,"HOWTO_ABOUT_RENTAL_CHOCOBO","LOGMSG_CHOCOBO_SUMMON_FAIL_FOR_BUDDY","","","","","","","","",81,1337,0,0,0,0,0,0,0,0,"租借陆行鸟","",""
+2,0,"WarpRentalChocobo",true,"HOWTO_ABOUT_RENTAL_CHOCOBO","LOGMSG_CHOCOBO_SUMMON_FAIL_FOR_BUDDY","","","","","","","","",81,1337,0,0,0,0,0,0,0,0,"租借陆行鸟","",""
 3,0,"WarpInnLimsaLominsa",true,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
 4,0,"WarpInnGridania",true,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
 5,0,"WarpInnUldah",true,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""

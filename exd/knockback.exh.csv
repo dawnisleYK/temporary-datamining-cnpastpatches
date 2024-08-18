@@ -1,4 +1,4 @@
-Index,0 [FLOAT] [0x0],1 [FLOAT] [0x4],2 [BOOL] [0x11],3 [FLOAT] [0x8],4 [UBYTE] [0x10],5 [FLOAT] [0xC],6 [BOOL] [0x12]
+Index,0 [FLOAT] [0x0],1 [FLOAT] [0x4],2 [BBOOL] [0x11],3 [FLOAT] [0x8],4 [UBYTE] [0x10],5 [FLOAT] [0xC],6 [BBOOL] [0x11]
 0,0.0,0.0,true,0.0,0,0.0,true
 1,10.0,20.0,true,0.0,0,0.0,true
 2,20.0,30.0,true,0.0,0,0.0,true
@@ -57,6 +57,6 @@ Index,0 [FLOAT] [0x0],1 [FLOAT] [0x4],2 [BOOL] [0x11],3 [FLOAT] [0x8],4 [UBYTE] 
 55,25.0,30.0,true,0.0,0,0.0,true
 56,20.0,10.0,true,0.0,1,0.0,true
 57,20.0,10.0,true,0.0,1,180.0,true
-58,0.0,0.0,true,0.0,0,0.0,true
+58,10.0,20.0,true,0.0,3,0.0,true
 59,0.0,0.0,true,0.0,0,0.0,true
 60,0.0,0.0,true,0.0,0,0.0,true

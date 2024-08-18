@@ -1,4 +1,4 @@
-Index,0 [BOOL] [0x9],1 [UBYTE] [0x8],2 [STRING] [0x0],3 [UINT] [0x4]
+Index,0 [BBOOL] [0x9],1 [UBYTE] [0x8],2 [STRING] [0x0],3 [UINT] [0x4]
 0,false,0,"",0
 1,false,0,"游戏制作人",61531
 2,false,0,"游戏管理员",61524
@@ -32,7 +32,7 @@ Index,0 [BOOL] [0x9],1 [UBYTE] [0x8],2 [STRING] [0x0],3 [UINT] [0x4]
 30,false,0,"同一任务的其他队伍中",61507
 31,true,9,"任务中",61510
 32,true,25,"新人",61523
-33,true,26,"试玩期新人",61525
+33,true,28,"试玩期新人",61525
 34,false,0,"部队",0
 35,false,0,"军队",0
 36,true,27,"在线",61505

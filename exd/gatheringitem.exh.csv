@@ -1,4 +1,4 @@
-Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BOOL] [0x5]
+Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5]
 0,0,0,false
 1,2,1,false
 2,3,1,false
@@ -275,15 +275,15 @@ Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BOOL] [0x5]
 273,7593,70,false
 274,7594,70,false
 275,7595,70,false
-276,0,0,false
-277,0,0,false
-278,0,0,false
-279,0,0,false
-280,0,0,false
-281,0,0,false
-282,0,0,false
-283,0,0,false
-284,0,0,false
+276,8030,70,false
+277,5147,70,false
+278,5148,70,false
+279,5149,70,false
+280,5150,70,false
+281,5151,70,false
+282,8031,70,false
+283,5365,70,false
+284,8024,70,true
 285,0,0,false
 286,0,0,false
 287,0,0,false
@@ -520,11 +520,11 @@ Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BOOL] [0x5]
 518,2000908,45,false
 519,2000909,45,false
 520,2000910,48,false
-521,6688,40,true
-522,6689,45,true
-523,6690,50,true
-524,6691,50,true
-525,6692,50,true
+521,6688,40,false
+522,6689,45,false
+523,6690,50,false
+524,6691,50,false
+525,6692,50,false
 526,0,0,false
 527,0,0,false
 528,0,0,false

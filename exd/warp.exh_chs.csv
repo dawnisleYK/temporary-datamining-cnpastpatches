@@ -1,4 +1,4 @@
-Index,0 [UINT] [0x8],1 [UINT] [0xC],2 [UINT] [0x10],3 [UINT] [0x14],4 [USHORT] [0x18],5 [USHORT] [0x1A],6 [USHORT] [0x1C],7 [USHORT] [0x1E],8 [BOOL] [0x20],9 [STRING] [0x0],10 [STRING] [0x4]
+Index,0 [UINT] [0x8],1 [UINT] [0xC],2 [UINT] [0x10],3 [UINT] [0x14],4 [USHORT] [0x18],5 [USHORT] [0x1A],6 [USHORT] [0x1C],7 [USHORT] [0x1E],8 [BBOOL] [0x20],9 [STRING] [0x0],10 [STRING] [0x4]
 131072,0,0,0,0,1,1,0,0,false,"",""
 131073,2040811,0,0,0,2,2,0,0,false,"",""
 131074,3884000,590352,590353,0,3,1,0,0,false,"","要进入神勇队司令室吗？"

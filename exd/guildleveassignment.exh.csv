@@ -1,4 +1,4 @@
-Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [UINT] [0x8],3 [BOOL] [0xD],4 [BOOL] [0xE],5 [BOOL] [0xF],6 [UBYTE] [0xC]
+Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [UINT] [0x8],3 [BBOOL] [0xD],4 [BBOOL] [0xD],5 [BBOOL] [0xD],6 [UBYTE] [0xC]
 393216,1,65536,65536,true,true,false,2
 393217,2,65756,65756,false,false,false,0
 393218,3,65757,65757,false,false,false,0

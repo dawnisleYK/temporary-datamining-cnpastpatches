@@ -58,3 +58,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [UBYTE] [0x6],4 [UBYTE]
 56,"并且由于杂交成功，还收获了<value>个<ref:Item>。",0,11,1,6,13
 57,"由于<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>不在，“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”已被转让。",4,5,0,2,3
 58,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>将“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”的作物处理掉了。",4,10,0,6,13
+59,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>增设了个人用<value>号房间。",4,0,1,5,11
+60,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>撤除了个人用<value>号房间。",4,0,1,5,11
+61,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>照顾了鸟栏中的陆行鸟。",4,0,0,7,11
+62,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>对<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>进行了训练。",4,12,0,7,11

@@ -44,3 +44,4 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BOOL] [0x6],4 [BOOL] [
 1001,"染剂",30,255,true,true,true,true,true,true,true,true
 1002,"对战",50,255,true,true,true,true,true,true,true,true
 1003,"秘籍",50,255,true,true,true,true,true,true,true,true
+1004,"　",1,255,false,false,false,false,false,false,false,false

@@ -1,0 +1,22 @@
+Index,0 [USHORT] [0x0],1 [BBOOL] [0x3],2 [BBOOL] [0x3],3 [UBYTE] [0x2]
+0,0,false,false,0
+1,8165,true,false,0
+2,8166,true,false,0
+3,7894,true,true,1
+4,7895,true,true,2
+5,7896,true,true,3
+6,7897,true,true,4
+7,7898,true,true,5
+8,7899,true,true,6
+9,7900,true,true,7
+10,7799,false,true,0
+11,0,false,false,0
+12,0,false,false,0
+13,0,false,false,0
+14,0,false,false,0
+15,0,false,false,0
+16,0,false,false,0
+17,0,false,false,0
+18,0,false,false,0
+19,0,false,false,0
+20,0,false,false,0
