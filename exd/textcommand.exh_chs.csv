@@ -222,3 +222,4 @@ Index,0 [UBYTE] [0x18],1 [UBYTE] [0x19],2 [BYTE] [0x1B],3 [BYTE] [0x1C],4 [BYTE]
 511,2,1,2,0,0,"/hurray","","/胜利欢呼(欢呼) 子命令<br>/hurray<br>做出胜利的欢呼动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/胜利欢呼","/欢呼",1,0
 512,2,1,2,0,0,"/slap","","/甩巴掌 子命令<br>/slap<br>做出甩巴掌的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/甩巴掌","",1,0
 513,2,1,2,0,0,"/hug","","/拥抱 子命令<br>/hug<br>做出拥抱对方的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/拥抱","",1,0
+514,2,1,2,0,0,"/embrace","","/深情拥抱 子命令<br>/embrace<br>做出深情拥抱对方的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/深情拥抱","",1,0

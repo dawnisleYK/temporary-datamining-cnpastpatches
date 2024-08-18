@@ -1944,7 +1944,7 @@ Index,0 [UBYTE] [0x4],1 [UBYTE] [0x5],2 [BBOOL] [0xD],3 [UBYTE] [0x6],4 [UBYTE] 
 1942,0,0,false,0,0,0,"magic/thm_black/breakga_hit",0,0,0,0,false,false,false,false,true
 1943,0,0,false,0,0,0,"ability/pvp_common/abl012_hit",0,0,0,0,false,false,false,false,true
 1944,0,0,false,0,0,0,"ability/dgr_ninja/abl018_hit",0,0,0,0,false,false,false,false,true
-1945,0,0,false,0,0,0,"",0,0,0,0,false,false,false,false,true
+1945,0,0,false,0,0,0,"magic/cnj_white/stoneskin_hit",0,0,0,0,false,false,false,false,true
 1946,0,0,false,0,0,0,"mon_sp/m0024/mon_sp001_hit",0,0,0,0,false,false,false,false,true
 1947,0,0,false,0,0,0,"mon_sp/m0024/mon_sp002_hit",0,0,0,0,false,false,false,false,true
 1948,0,0,false,0,0,0,"mon_sp/m0011/mon_sp001_hit",0,0,0,0,false,false,false,false,true

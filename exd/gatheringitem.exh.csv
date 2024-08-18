@@ -286,8 +286,8 @@ Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5]
 284,8024,70,true
 285,5120,80,false
 286,5394,80,false
-287,0,0,false
-288,0,0,false
+287,9519,80,false
+288,9518,80,false
 289,0,0,false
 290,0,0,false
 291,0,0,false
