@@ -249,6 +249,7 @@ Index,0 [STRING] [0x4],1 [UBYTE] [0x8],2 [UBYTE] [0x9],3 [BOOL] [0xB],4 [UBYTE] 
 274,"MENU_MONSTER",255,255,false,3,"讨伐笔记"
 275,"MENU_FISH",255,255,false,3,"钓鱼笔记"
 276,"MENU_FISH_GUIDE",255,255,false,3,"鱼类图鉴"
+277,"MENU_CONTENTS_NOTEBOOK",255,255,false,3,"挑战笔记"
 278,"MENU_MARK",255,255,false,3,"目标标记"
 279,"MENU_FIELD_MARK",255,255,false,3,"场景标记"
 280,"MENU_BUDDY",255,255,false,3,"搭档"

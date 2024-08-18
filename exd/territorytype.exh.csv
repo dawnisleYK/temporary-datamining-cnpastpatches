@@ -62,7 +62,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x28],3 [USHORT] [0x1C],4 [US
 171,"r1r1","ffxiv/roc_r1/rad/r1r1/level/r1r1",1,25,508,64,50,2,3,0,true,false,false,1070,122004,124302,0,0,23,-1,9,-1,-1
 172,"r1r2","ffxiv/roc_r1/rad/r1r2/level/r1r2",1,25,508,65,38,2,3,0,true,false,false,1071,122004,124303,0,0,23,-1,33,-1,-1
 173,"b1r1","",1,147,0,152,0,2,3,0,false,true,true,1001,122006,124501,0,0,11,-1,0,-1,-1
-174,"l1r1","ffxiv/lak_l1/rad/l1r1/level/l1r1",1,26,509,478,71,2,8,0,true,false,false,1001,122011,124601,0,0,24,-1,21,0,-1
+174,"l1r1","ffxiv/lak_l1/rad/l1r1/level/l1r1",1,26,509,478,71,2,8,0,true,false,false,1001,122011,124601,0,0,24,-1,21,-1,-1
 175,"s1p2","ffxiv/sea_s1/pvp/s1p2/level/s1p2",4,22,502,154,81,2,4,0,true,false,false,1001,122001,124005,0,0,0,-1,0,-1,-1
 176,"z1j1","ffxiv/zon_z1/jai/z1j1/level/z1j1",1,148,0,153,1,0,5,0,false,false,false,1001,-1,-1,0,0,55,-1,0,-1,-1
 177,"s1ti","ffxiv/sea_s1/twn/s1ti/level/s1ti",1,22,500,733,26,0,2,0,true,false,false,5,122001,123001,852012,0,8,-1,0,-1,23

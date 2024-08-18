@@ -11,7 +11,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 9,"减速","自动攻击间隔时间与各种技能的复唱时间延长",15009,0,2,56,false,false,false,false,false,false,false,50,0,false,0,false,false
 10,"减速","自动攻击间隔时间与各种技能的复唱时间延长",15545,0,2,56,false,false,false,false,false,true,true,50,0,false,0,false,false
 11,"混乱","头脑变得混乱，会像同伴发动攻击",15603,0,2,61,false,false,true,false,true,false,false,100,0,false,0,false,false
-12,"","",0,0,0,0,false,false,false,false,false,false,false,0,0,false,0,false,false
+12,"浮空","",15008,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
 13,"止步","无法自由移动",15003,0,2,54,true,false,false,false,false,false,false,100,0,false,0,false,false
 14,"加重","移动速度降低",15002,0,2,44,false,false,false,false,false,false,false,100,1,false,0,false,false
 15,"失明","被黑暗笼罩，物理命中降低",15012,0,2,52,false,false,false,false,false,false,false,50,0,false,0,false,false
@@ -19,7 +19,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 17,"麻痹","身体麻木，偶尔会发不出技能",15006,0,2,46,false,false,false,false,false,false,false,100,0,false,0,false,false
 18,"中毒","毒素会导致体力逐渐减少",15007,0,2,41,false,false,false,false,false,false,false,10,0,false,0,false,false
 19,"猛毒","毒素会导致体力逐渐减少",15517,0,2,41,false,false,false,false,false,true,true,10,0,false,0,false,false
-20,"ＴＰ継続ダメージ","連続してＴＰが減少している状態。",15025,0,2,61,false,false,false,false,false,false,false,10,0,false,0,false,false
+20,"技力流失","技力不断减少",15025,0,2,61,false,false,false,false,false,false,false,10,0,false,0,false,false
 21,"体力增加","体力最大值提高",15075,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
 22,"体力衰减","体力最大值降低",15076,0,2,61,false,false,false,false,false,false,false,50,0,false,0,false,false
 23,"魔力增加","魔力最大值提高",15077,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
@@ -40,8 +40,8 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 38,"魔法防御力降低","魔法防御力减弱",15057,0,2,61,false,false,false,false,false,false,false,50,0,false,0,false,false
 39,"眩晕无效","附带眩晕效果的技能无法生效",15566,0,1,60,false,false,false,false,false,true,true,100,0,false,0,false,false
 40,"沉默无效","附带沉默效果的技能无法生效",15567,0,1,60,false,false,false,false,false,true,true,100,0,false,0,false,false
-41,"","",0,0,0,0,false,false,false,false,false,false,false,0,0,false,0,false,false
-42,"","",0,0,0,0,false,false,false,false,false,false,false,0,0,false,0,false,false
+41,"制作设备","借助制作设备进行作业，40级及以下的能工巧匠会提升最大制作力",16107,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
+42,"超越之力","超过自己的极限，能够提升最大体力，同时攻击造成的伤害及恢复魔法的恢复量也会增加",16207,0,1,60,false,false,false,false,false,true,true,0,0,false,0,false,false
 43,"衰弱","身体很虚弱，各项状态参数均降低15%",15010,0,2,0,false,false,false,false,false,false,false,100,0,false,0,false,false
 44,"濒死","身体非常虚弱，各项状态参数均降低30%",15011,0,2,0,false,false,false,false,false,false,false,100,0,false,0,false,false
 45,"巧手之工","能工巧匠获得的经验值增加",16106,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
@@ -72,7 +72,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 70,"眩晕攻击","自动攻击附加眩晕效果",15506,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
 71,"铁壁","减轻所受到的伤害",10202,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 72,"渐愈","自身所受的恢复魔法效果提高",10207,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
-73,"警觉","降低受到暴击的几率",10204,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
+73,"警觉","一定时间内不会受到暴击",10204,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 74,"预警","减轻所受到的伤害",10201,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 75,"钢铁意志","击退与吸引无效",10203,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 76,"战逃反应","物理攻击所造成的伤害提高",10205,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
@@ -90,7 +90,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 88,"死斗","无法自由移动，受到伤害也不会解除",10405,0,2,61,true,false,false,false,false,false,false,100,0,false,0,false,false
 89,"复仇","受到物理攻击时会发动反击",10406,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
 90,"暴风碎","斩击耐性降低，自身所受的恢复魔法效果也降低",10413,0,2,61,false,false,false,false,false,false,false,50,0,false,0,false,false
-91,"守护","体力最大值提高，自身所受的恢复魔法效果提高，同时会以攻击力降低为代价提高自身仇恨效果中发动特定技能会附加愤怒状态",13201,0,1,60,false,false,false,false,false,true,true,0,0,true,0,false,false
+91,"守护","体力最大值提高，自身所受的恢复魔法效果提高，同时会以攻击力降低为代价提高自身仇恨。效果中发动特定技能会附加愤怒状态",13201,0,1,60,false,false,false,false,false,true,true,0,0,true,0,false,false
 92,"解脱","抵消守护状态中降低攻击力的负面效果",13202,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 93,"愤怒","暴击发动率提高",10407,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 94,"愤怒II","暴击发动率提高",10408,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
@@ -316,7 +316,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 314,"地狱之火炎","火属性持续伤害，体力逐渐流失",13762,0,2,61,false,false,false,false,false,false,false,10,0,false,0,false,false
 315,"日光的低语","体力会随时间逐渐恢复",13851,0,1,60,false,false,false,false,false,false,false,5,0,false,0,false,false
 316,"异想的盟光","魔法防御力增强",13852,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
-317,"异想的幻光","恢复魔法的恢复量提高",13853,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
+317,"异想的幻光","发动恢复魔法的恢复量提高",13853,0,1,60,false,false,false,false,false,false,false,0,0,false,0,false,false
 318,"异想的炽光","魔法的咏唱速度加快",13861,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
 319,"异想的辉光","战技的咏唱速度加快",13862,0,1,60,false,false,false,false,false,false,false,1,0,false,0,false,false
 320,"出血","无属性持续伤害，体力逐渐流失",15530,0,2,61,false,false,false,false,false,true,true,10,0,false,0,false,false
@@ -408,7 +408,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 406,"受伤减轻","受到攻击的伤害减少",17301,8,1,60,false,false,false,false,false,true,true,30,0,false,0,false,false
 407,"粉尘中毒","吸入了水晶的粉尘，积攒到4档之后会陷入无法战斗状态",17001,4,2,41,false,false,false,false,false,false,false,200,0,false,0,false,false
 408,"暴风斩","攻击所造成的伤害降低",10415,0,2,61,false,false,false,false,false,false,false,50,0,false,0,false,false
-409,"死斗","无法自由移动，受到伤害也不会解除另外，除特定攻击之外其他所有对自身发动的攻击均无法令体力减少到1以下",10405,0,2,61,false,false,false,false,false,false,false,100,0,false,0,false,false
+409,"死斗","无法自由移动，受到伤害也不会解除。另外，除特定攻击之外其他所有对自身发动的攻击均无法令体力减少到1以下",10405,0,2,61,false,false,false,false,false,false,false,100,0,false,0,false,false
 410,"病毒抗体","无法接受新的“病毒”及“心病”",10915,0,1,61,false,false,false,false,false,false,false,30,0,false,0,false,false
 411,"原初之魂","减轻所受到的伤害",13203,0,1,60,false,false,false,false,false,false,false,30,0,false,0,false,false
 412,"滞空","高度提高",15024,0,1,60,false,false,false,false,false,true,false,200,0,false,0,false,false

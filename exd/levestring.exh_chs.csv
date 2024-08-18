@@ -32,6 +32,6 @@ Index,0 [STRING] [0x0]
 30,"打倒呼叫增援的敌人"
 31,"失败条件：没有达到目标数量"
 32,"打倒对“<if(INT: 2 == 2 ) {戳指} else {质疑}>”动作有反应的敌人<br>获得<ref:EventItem>"
-33,"失败条件：丢失了所有<ref:BNpcName>"
+33,"失败条件：失去所有<ref:BNpcName>"
 34,"从<ref:BNpcName>身上获得<ref:EventItem><br>并对<ref:EObj>使用<br>将<ref:BNpcName>引诱出来"
 35,"过早尝试驯服会起到相反的效果<br>目标会陷入兴奋状态"
