@@ -42,6 +42,11 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4]
 40,"chn_bismarck02h",0
 41,"chn_d1007_01f",0
 42,"chn_jobast0f",0
-43,"",0
-44,"",0
-45,"",0
+43,"chn_m0070_0c",0
+44,"chn_m0070_1c",0
+45,"chn_elem0f",0
+46,"chn_count05f",0
+47,"chn_m011order0f",0
+48,"",0
+49,"",0
+50,"",0

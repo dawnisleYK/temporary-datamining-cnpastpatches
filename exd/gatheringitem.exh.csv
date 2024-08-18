@@ -1,4 +1,4 @@
-Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5]
+Index,0 [INT] [0x0],1 [USHORT] [0x4],2 [BBOOL] [0x6]
 0,0,0,false
 1,2,1,false
 2,3,1,false
@@ -387,15 +387,15 @@ Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5]
 385,12970,150,true
 386,12973,150,true
 387,10335,70,true
-388,0,0,false
-389,0,0,false
-390,0,0,false
-391,0,0,false
-392,0,0,false
-393,0,0,false
-394,0,0,false
-395,0,0,false
-396,0,0,false
+388,13759,148,false
+389,13760,150,false
+390,13761,139,false
+391,13762,150,false
+392,13763,148,false
+393,13764,139,false
+394,13765,80,false
+395,13767,125,false
+396,13768,130,false
 397,0,0,false
 398,0,0,false
 399,0,0,false
@@ -606,10 +606,10 @@ Index,0 [INT] [0x0],1 [UBYTE] [0x4],2 [BBOOL] [0x5]
 604,12963,180,false
 605,12962,180,false
 606,12965,180,false
-607,0,0,false
-608,0,0,false
-609,0,0,false
-610,0,0,false
+607,13750,180,false
+608,13752,180,false
+609,13753,180,false
+610,13631,180,false
 611,0,0,false
 612,0,0,false
 613,0,0,false

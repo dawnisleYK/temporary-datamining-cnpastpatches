@@ -20,7 +20,7 @@ Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [UBYTE] [0x2],3 [UBYTE] [0x3],4 [BBOOL] 
 18,1,1,1,1,true,true
 19,1,1,1,1,true,true
 20,1,1,1,1,true,true
-21,1,2,3,4,true,true
+21,2,3,4,5,true,true
 22,2,4,6,8,true,true
 23,1,1,2,3,true,true
 24,1,1,1,1,true,true
@@ -47,5 +47,7 @@ Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [UBYTE] [0x2],3 [UBYTE] [0x3],4 [BBOOL] 
 45,1,1,1,1,true,true
 46,1,1,1,1,true,true
 47,10,10,10,10,true,true
-48,0,0,0,0,true,true
-49,0,0,0,0,true,true
+48,10,10,10,10,true,true
+49,5,5,5,5,true,true
+50,1,1,1,1,true,true
+51,1,1,1,1,true,true

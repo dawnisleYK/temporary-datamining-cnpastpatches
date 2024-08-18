@@ -1,10 +1,10 @@
 Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x8],3 [BBOOL] [0xA],4 [BBOOL] [0xA],5 [BYTE] [0x9]
 0,"","",0,true,false,0
-1,"general01f","general01_pf",0,true,false,0
+1,"general_1bf","general_1bpf",2,true,false,0
 2,"general02f","general02_pf",4,true,false,0
-3,"gl_fan060_0f","gl_fan060_0pf",3,true,false,0
-4,"gl_fan090_0f","gl_fan090_0pf",3,true,false,0
-5,"gl_fan120_0f","gl_fan120_0pf",3,true,false,0
+3,"gl_fan060_1bf","gl_fan060_1bpf",3,true,false,0
+4,"gl_fan090_1bf","gl_fan090_1bpf",3,true,false,0
+5,"gl_fan120_1bf","gl_fan120_1bpf",3,true,false,0
 6,"m0096sp_05c1s","",2,true,false,0
 7,"m0096sp_06c2s","",2,true,false,0
 8,"m0098sp04cx0t","",2,true,false,0
@@ -27,7 +27,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x8],3 [BBOOL] [0xA],4 [BBOOL
 25,"m0031sp03o0c","",4,true,false,0
 26,"m0099sp_03o0t","",4,true,false,0
 27,"gl_shipimpact0f","",2,true,false,0
-28,"gl_fan150_0f","gl_fan150_0pf",3,true,false,0
+28,"gl_fan150_1bf","gl_fan150_1bpf",3,true,false,0
 29,"d1006_meteo1m","",2,true,false,0
 30,"d1006_sp04o1m","",2,true,false,0
 31,"m0172sp05o0c","",4,true,false,0
@@ -96,9 +96,17 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [UBYTE] [0x8],3 [BBOOL] [0xA],4 [BBOOL
 94,"m0244en_o0t","",2,true,false,0
 95,"m0066tatari_o0c","",2,true,false,0
 96,"bismarck_mizubakudan1h","",2,true,false,0
-97,"","",0,true,false,0
-98,"","",0,true,false,0
+97,"m0070_taberu0c","",2,true,false,0
+98,"gl_fan060_1bf","",3,true,false,0
 99,"gl_fan030_0f","",3,true,false,0
 100,"gl_fan060_1f","",3,true,false,0
 101,"gl_fan120_1f","",3,true,false,0
 102,"general01bf","",3,true,false,0
+103,"gl_sircle_6008tf","",2,true,false,0
+104,"m0280sp02o0t","",2,true,false,0
+105,"gl_fan030_1bf","gl_fan030_1bpf",3,true,false,0
+106,"manta_mizubakudan1h","",2,true,false,0
+107,"","",0,true,false,0
+108,"","",0,true,false,0
+109,"","",0,true,false,0
+110,"","",0,true,false,0

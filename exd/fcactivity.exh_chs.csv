@@ -85,3 +85,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [UBYTE] [0x6],4 [UBYTE]
 83,"通过飞空艇“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”的探索，工房可以登记第<value>架飞空艇了。",16,15,1,9,14
 84,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>消耗<value>点部队战绩换取了<value>个“<ref:Item>”。",16,22,1,1,0
 85,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>提供了<if(INT: 4 == 2 ) {} else {<value>次}>必需素材“<ref:Item>”，贡献了60%以上的该素材以制作“<ref:Item>”。",16,22,1,8,15
+86,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>发现了“云冠群岛夜晚探索”的航线！",16,0,0,9,14
+87,"因为长时间没有使用，<ref:PlaceName>第<value>区<value>号土地已被回收，部分资产由住宅区管理员代为保管。",0,7,0,5,11
+88,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>回到了房屋中，自动拆除准备已经取消。",16,0,0,5,11
+89,"因为资产回收期限已过，从<ref:PlaceName>第<value>区<value>号土地回收的资产已全部销毁。",0,7,0,5,11

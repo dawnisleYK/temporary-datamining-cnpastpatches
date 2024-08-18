@@ -89,3 +89,4 @@ Index,0 [STRING] [0x0],1 [SHORT] [0x4]
 87,"weapon/limitbreak/lbk_scholar_lv3",-1
 88,"weapon/gun_action/cocking",1
 89,"weapon/gun_action/attach_hide_loop",-1
+90,"weapon/gauntlet_action/cancel_bend_wrist",-1
