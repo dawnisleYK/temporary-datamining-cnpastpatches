@@ -1,5 +1,7 @@
-Index,0 [USHORT] [0x8],1 [BYTE] [0xA],2 [UINT] [0x0],3 [UINT] [0x4],4 [BBOOL] [0xB]
-0,0,0,0,0,false
-1,0,10,0,0,false
-2,0,15,0,0,false
-3,500,10,218,219,true
+Index,0 [BBOOL] [0xB],1 [USHORT] [0x8],2 [BYTE] [0xA],3 [UINT] [0x0],4 [UINT] [0x4],5 [BBOOL] [0xB]
+0,false,0,0,0,0,false
+1,true,0,10,0,0,false
+2,true,0,15,0,0,false
+3,true,500,10,218,219,true
+4,true,0,20,0,0,false
+5,false,0,10,218,219,false

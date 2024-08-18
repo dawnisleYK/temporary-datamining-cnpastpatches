@@ -1,7 +1,22 @@
-Index,0 [SHORT] [0x4],1 [USHORT] [0x0],2 [USHORT] [0x2],3 [BBOOL] [0x6]
-0,0,0,0,false
-1,639,0,0,false
-2,738,2443,0,false
-3,0,0,0,false
-4,0,0,0,false
-5,0,0,0,false
+Index,0 [SHORT] [0x14],1 [INT] [0x8],2 [INT] [0xC],3 [USHORT] [0x10],4 [USHORT] [0x12],5 [BBOOL] [0x16],6 [FLOAT] [0x0],7 [FLOAT] [0x4],8 [BBOOL] [0x16]
+0,0,0,0,0,0,false,0.0,1.0,false
+1,639,0,0,0,0,false,0.0,1.0,false
+2,738,0,0,2443,0,false,0.0,1.0,false
+3,868,0,0,0,0,false,0.0,1.0,false
+4,344,0,0,0,0,false,0.0,1.0,false
+5,869,0,0,0,0,false,0.0,1.0,false
+6,836,0,0,3139,0,false,0.0,1.0,false
+7,0,465,248,2360,0,false,0.0,1.0,true
+8,0,466,249,2360,0,false,0.0,1.0,true
+9,0,467,250,2360,0,false,0.0,1.0,true
+10,0,468,251,2360,0,false,0.0,1.0,true
+11,0,469,252,2360,0,false,0.0,1.0,true
+12,921,0,0,2360,0,false,0.9,1.0,false
+13,920,0,0,2360,0,false,0.9,1.0,false
+14,923,0,0,2360,0,false,0.6,1.0,false
+15,924,0,0,2360,0,false,0.5,0.6,false
+16,922,0,0,2360,0,false,0.3,1.0,false
+17,0,0,0,0,0,false,0.0,1.0,false
+18,0,0,0,0,0,false,0.0,1.0,false
+19,0,0,0,0,0,false,0.0,1.0,false
+20,0,0,0,0,0,false,0.0,1.0,false

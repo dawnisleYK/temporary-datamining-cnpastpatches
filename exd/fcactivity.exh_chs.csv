@@ -62,3 +62,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [UBYTE] [0x6],4 [UBYTE]
 60,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>撤除了个人用<value>号房间。",4,0,1,5,11
 61,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>照顾了鸟栏中的陆行鸟。",4,0,0,7,11
 62,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>对<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>进行了训练。",4,12,0,7,11
+63,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>は、ホイールスロット<value>に、「<ref:Item>」を設置しました。",4,1,1,5,11
+64,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>は、ホイールスロット<value>から、「<ref:Item>」を撤去しました。",4,1,1,5,11
+65,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>は、ホイールスロット<value>から、「<ref:Item>」を獲得しました。",4,1,1,5,11
+66,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>は、「<ref:Item>」を変換し、「<ref:CompanyAction>」をリザーブしました。",4,1,1,4,9

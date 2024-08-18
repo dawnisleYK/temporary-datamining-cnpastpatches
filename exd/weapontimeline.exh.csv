@@ -72,3 +72,5 @@ Index,0 [STRING] [0x0],1 [SHORT] [0x4]
 70,"weapon/overlay/default",-1
 71,"weapon/overlay/sp1",-1
 72,"weapon/enpc_sp/scissors",-1
+73,"weapon/special/mysidia_rabbit",-1
+74,"weapon/event_base/event_base_performer2",-1

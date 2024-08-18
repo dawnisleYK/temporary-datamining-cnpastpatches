@@ -28,11 +28,11 @@ Index,0 [USHORT] [0x0],1 [UBYTE] [0x8],2 [USHORT] [0x2],3 [USHORT] [0x4],4 [USHO
 26,1583,0,232,233,0,true,true,true,0
 27,1584,0,234,0,0,true,true,true,0
 28,1585,0,235,0,0,true,true,true,0
-29,0,0,0,0,0,false,false,false,0
-30,0,0,0,0,0,false,false,false,0
-31,0,0,0,0,0,false,false,false,0
-32,0,0,0,0,0,false,false,false,0
-33,0,0,0,0,0,false,false,false,0
+29,1588,0,247,248,249,true,true,true,0
+30,1589,0,250,251,252,true,true,true,0
+31,1587,0,253,0,0,true,true,true,0
+32,1586,0,254,0,0,true,true,true,0
+33,1590,0,255,256,0,true,true,true,0
 34,0,0,0,0,0,false,false,false,0
 35,0,0,0,0,0,false,false,false,0
 36,0,0,0,0,0,false,false,false,0

@@ -1,13 +1,11 @@
 Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 0,"ChatLog",0
 1,"Talk",0
-2,"TalkSelector",0
 3,"JournalAccept",50
 4,"JournalResult",50
 5,"Trade",50
 6,"Gathering",0
 7,"NeedGreed",50
-8,"_ActiveInformation",0
 9,"Shop",50
 10,"Inventory",0
 11,"InventoryEvent",0
@@ -33,10 +31,8 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 31,"RecipeNote",50
 32,"ActionMenu",50
 33,"GuildLeveHistory",50
-34,"ConfigList",50
 35,"Config",50
 36,"ItemDetail",0
-37,"JournalDetailHistory",0
 38,"ActionDetail",0
 39,"Synthesis",0
 40,"SynthesisSimple",0
@@ -44,14 +40,12 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 42,"_MainCommand",0
 43,"ScreenLog",0
 44,"Character",50
-45,"_SubTargetList",0
 46,"NamePlate",0
 47,"CharacterBonus",85
 48,"InventoryRetainer",0
 49,"Bank",85
 50,"TalkSubtitle",0
 51,"EventSkip",0
-52,"ListCheckBox",50
 53,"_ScreenInfoBack",0
 54,"RetainerSell",83
 55,"RetainerSellList",50
@@ -74,7 +68,6 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 72,"_BattleTalk",0
 73,"ConfigSystem",50
 74,"FateReward",0
-75,"ShopGrandCompany",50
 76,"ColorPicker",0
 77,"ContextIconMenu",0
 78,"FreeCompany",50
@@ -95,7 +88,7 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 93,"MateriaAttachDialog",0
 94,"MateriaBroker",50
 95,"MateriaBrokerDialog",0
-96,"FreeCompanyOrganizeSheet",80
+96,"FreeCompanyOrganizeSheet",50
 97,"FreeCompanyProfile",80
 98,"LegacyItemStorage",50
 99,"GrandCompanyRank",80
@@ -143,7 +136,7 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 141,"Buddy",50
 142,"BuddyEquipList",85
 143,"RetainerHistory",0
-144,"MateriaAttachRepair",50
+144,"MateriaAttachedRepair",50
 145,"SynthesisSimpleDialog",0
 146,"FreeCompanyChest",50
 147,"FreeCompanyExchange",50
@@ -225,7 +218,7 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 223,"InventoryRetainerLarge",0
 224,"MinionNoteBook",50
 225,"MountNoteBook",50
-226,"ItemDetailCompare",50
+226,"ItemDetailCompare",0
 227,"SalvageDialog",0
 228,"SalvageResult",0
 229,"Mobhunt",50
@@ -234,3 +227,10 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 232,"DailyQuestSupply",85
 233,"Teleport",50
 234,"HousingWithdrawStorage",50
+235,"WeatherReport",0
+236,"HousingMyChocobo",0
+237,"RelicGlass",50
+238,"LookingForAlliance",0
+239,"Wedding",0
+240,"LetterAddress",0
+241,"FriendGroupEdit",0

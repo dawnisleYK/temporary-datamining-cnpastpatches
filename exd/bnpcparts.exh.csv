@@ -8,5 +8,7 @@ Index,0 [USHORT] [0x30],1 [STRING] [0x0],2 [BOOL] [0x38],3 [BOOL] [0x3C],4 [FLOA
 6,2042,"atr_parts_breast",true,false,0.0,0.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
 7,2689,"",false,false,0.0,0.5,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
 8,2766,"",false,false,0.0,2.4,2767,"",false,false,0.0,2.4,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
-9,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+9,3350,"atr_parts_a",true,false,1.5,0.0,3351,"atr_parts_b",true,false,0.0,0.3,3352,"atr_parts_c",true,false,-0.9,-0.8,0,"",false,false,0.0,0.0
 10,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+11,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
+12,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0,0,"",false,false,0.0,0.0
