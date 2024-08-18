@@ -427,7 +427,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 429,"妖鳞粉","身上沾满了妖鳞粉，散发出吸引阿里奥克的香味，受到攻击的伤害增加",17401,16,2,17,0,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0
 430,"悲叹","陷入了深深的悲伤之中，受到攻击的伤害增加",15576,0,2,17,0,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,0
 431,"水属性耐性降低","对抗水属性的耐性有所降低",17421,8,2,17,0,false,false,false,false,false,false,false,false,50,true,0,false,0,false,false,0,0
-432,"水镜飞散","身上覆盖了一层镜面般明亮的水膜，受到治疗魔法治疗时会给对方附加水镜状态",15577,0,2,17,0,false,false,false,false,false,false,false,false,30,true,0,false,0,false,false,0,0
+432,"水镜飞散","身上覆盖了一层镜面般明亮的水膜，受到治疗魔法或技能的治疗时，会给治疗者附加水镜状态",15577,0,2,17,0,false,false,false,false,false,false,false,false,30,true,0,false,0,false,false,0,0
 433,"水镜","身上覆盖了一层镜面般明亮的水膜，视野被遮挡住了，技能的射程缩短<br>积攒到16档后将会无法发动技能",17441,16,2,17,0,false,false,false,false,false,false,false,false,100,true,0,false,0,false,false,0,0
 434,"完全束缚","被高级咒术夺走了自由，无法做出任何行动",15579,0,2,17,0,true,false,true,false,false,false,true,true,200,true,0,false,0,false,false,0,0
 435,"恶魔之瞳","被恶魔之瞳所石化，无法做出任何行动，并且受到攻击的伤害会有所增加",15578,0,2,17,0,true,false,true,false,false,false,false,false,200,true,0,false,0,false,false,0,0
