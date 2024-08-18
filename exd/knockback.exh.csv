@@ -65,8 +65,8 @@ Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [BBOOL] [0x5],3 [UBYTE] [0x2],4 [UBYTE] 
 63,7,15,true,0,0,0,true
 64,50,100,true,0,0,0,true
 65,25,50,true,0,0,0,true
-66,0,0,true,0,0,0,true
-67,0,0,true,0,0,0,true
+66,10,20,true,0,0,0,true
+67,15,20,true,0,0,0,true
 68,0,0,true,0,0,0,true
 69,0,0,true,0,0,0,true
 70,0,0,true,0,0,0,true

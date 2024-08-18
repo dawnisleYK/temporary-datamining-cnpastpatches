@@ -1,8 +1,8 @@
-Index,0 [UBYTE] [0x0],1 [UBYTE] [0x1],2 [UBYTE] [0x2]
-0,0,0,0
-1,4,80,5
-2,1,79,2
-3,2,82,3
-4,3,81,4
-5,5,0,6
-6,6,0,6
+Index,0 [BBOOL] [0x3],1 [UBYTE] [0x0],2 [UBYTE] [0x1],3 [UBYTE] [0x2]
+0,false,0,0,0
+1,false,4,80,5
+2,false,1,79,2
+3,false,2,82,3
+4,false,3,81,4
+5,true,5,0,6
+6,true,6,0,6

@@ -73,7 +73,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [STRING] [0x8],3 [UBYTE] [0xC]
 71,"<color?><value></color>","市场出售报告","",0
 72,"<color?><value></color>","パーティ募集の新着情報","",0
 73,"<color?><value></color>","マーカー設定情報","",0
-74,"","","",0
+74,"<color?><value></color>","ダイスの出目","",0
 75,"","","",0
 76,"","","",0
 77,"","","",0

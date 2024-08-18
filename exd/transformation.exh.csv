@@ -16,7 +16,7 @@ Index,0 [SHORT] [0x14],1 [INT] [0x8],2 [INT] [0xC],3 [USHORT] [0x10],4 [USHORT] 
 14,923,0,0,2360,0,false,0.6,1.0,false
 15,924,0,0,2360,0,false,0.5,0.6,false
 16,922,0,0,2360,0,false,0.3,1.0,false
-17,0,0,0,0,0,false,0.0,1.0,false
-18,0,0,0,0,0,false,0.0,1.0,false
-19,0,0,0,0,0,false,0.0,1.0,false
+17,652,0,0,0,0,false,0.0,2.0,false
+18,1022,0,0,0,0,false,0.0,2.0,false
+19,1023,0,0,3504,0,false,0.0,2.0,false
 20,0,0,0,0,0,false,0.0,1.0,false

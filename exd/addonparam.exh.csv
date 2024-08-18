@@ -234,3 +234,17 @@ Index,0 [STRING] [0x0],1 [BYTE] [0x4]
 239,"Wedding",0
 240,"LetterAddress",0
 241,"FriendGroupEdit",0
+242,"AetherialWheel",0
+243,"GoldSaucerReward",0
+244,"TripleTriad",0
+245,"TripleTriadRequest",0
+246,"TripleTriadResult",0
+247,"LotteryDaily",0
+248,"GoldSaucerInfo",50
+249,"GSInfoEditDeck",85
+250,"LotteryWeeklyInput",0
+251,"LotteryWeeklyHistory",0
+252,"LotteryWeeklyRewardList",0
+262,"TripleTriadRanking",50
+266,"ShopExchangeCoin",50
+268,"RelicMagicite",50
