@@ -1516,7 +1516,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [USHORT] [0x8],3 [UBYTE] [0xC],4 [UBYT
 1514,"スリル・オブ・ウォー：効果","連続してＨＰが回復している状態。",14842,0,1,16,0,false,false,false,false,false,false,false,false,true,0,true,0,true,0,false,false,0,0,false
 1515,"滞空","高度提高",15683,0,1,16,0,false,false,false,false,false,false,false,true,true,1,true,12,true,0,false,false,0,0,false
 1516,"水泥","水泥粘在身上，不断石化。效果结束时会石化",0,0,2,17,0,false,false,false,false,false,false,false,false,false,100,true,0,true,0,false,false,0,0,false
-1517,"火属性耐性向上","对火属性的耐性有所提高",15028,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
+1517,"火属性耐性提升","对火属性的耐性有所提高",15028,0,1,16,0,false,false,false,false,false,false,false,false,false,0,true,0,false,0,false,false,0,0,false
 1518,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1519,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false
 1520,"","",0,0,0,0,0,false,false,false,false,false,false,false,false,false,0,false,0,false,0,false,false,0,0,false

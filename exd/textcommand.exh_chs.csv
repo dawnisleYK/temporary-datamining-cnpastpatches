@@ -255,6 +255,7 @@ Index,0 [UBYTE] [0x18],1 [UBYTE] [0x19],2 [BYTE] [0x1B],3 [BYTE] [0x1C],4 [BYTE]
 459,2,1,2,0,0,"/pray","","/祈祷 子命令<br>/pray<br>做出祈祷的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/祈祷","",36,0
 460,2,1,2,0,0,"/imperialsalute","","/帝国式军礼 子命令<br>/imperialsalute<br>以帝国的标准行军礼。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/帝国式军礼","",36,0
 461,2,1,2,0,0,"/visor","","/头部装备<br>/visor<br>对头部装备进行操作。<br>※针对可以开合以及有明暗表现等功能的装备。","/头部装备","",44,0
+463,2,1,2,0,0,"/megaflare","","/百万核爆 子命令<br>/megaflare<br>放出百万核爆般的光芒。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/百万核爆","",36,0
 464,2,1,2,0,0,"/crimsonlotus","","/练武 子命令<br>/crimsonlotus<br>开始练武。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/练武","",36,0
 465,2,1,2,0,0,"/charmed","","/魅惑拥抱 子命令<br>/charmed<br>被魅惑拥抱魅惑。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/魅惑拥抱","",36,0
 466,2,1,2,0,0,"/cheeron","","/声援小蓝 子命令<br>/cheeron<br>做出声援小蓝的动作。<br>>>子命令<br><color #FFFF66>动作(motion)</color><br>只做动作。<br><color #FFFF66>无子命令</color><br>做出动作并显示文字提示。","/声援小蓝","",36,0

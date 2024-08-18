@@ -6239,7 +6239,7 @@ Index,0 [UBYTE] [0x6],1 [UBYTE] [0x7],2 [BBOOL] [0x10],3 [UBYTE] [0x8],4 [UBYTE]
 6237,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
 6238,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
 6239,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
-6240,0,0,false,0,0,0,"",0,0,0,0,0,0,false,false,false,false,false
+6240,0,1,false,0,0,1,"emote_sp/sp08",0,2,1,2,0,0,true,true,false,false,true
 6241,0,1,false,0,0,0,"emote_sp/sp09_start",0,2,0,2,0,0,true,true,false,false,true
 6242,0,0,true,0,0,1,"emote_sp/sp09_loop",0,2,1,2,0,0,true,true,false,false,true
 6243,0,1,false,0,0,0,"emote_sp/sp10_start",0,2,0,2,0,0,true,true,false,false,true

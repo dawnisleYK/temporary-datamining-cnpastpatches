@@ -41,7 +41,7 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [INT] [0x8],3 [USHORT] [0xC],4 [UBYTE]
 39,"异想的流光","一定时间内自身与周围队员的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短3%<br><color?>持续时间：</color>30秒<br><color #FF7B1A>“协助战斗”状态下在接到命令之前不会发动该技能</color>",2812,811,7,false,true
 40,"攻击模式","对敌人发动攻击",405,0,8,false,true
 41,"支援模式","为己方提供辅助效果",405,0,8,false,true
-42,"","",405,7428,10,false,false
+42,"","",405,7428,10,true,false
 43,"","",405,7449,10,true,true
 44,"","",405,7450,0,true,false
 45,"","",405,7416,8,true,true
@@ -49,6 +49,6 @@ Index,0 [STRING] [0x0],1 [STRING] [0x4],2 [INT] [0x8],3 [USHORT] [0xC],4 [UBYTE]
 47,"","",405,7438,0,true,false
 48,"","",405,7440,0,true,true
 49,"","",405,7441,0,true,true
-50,"","",405,8879,0,false,false
+50,"","",405,8879,0,true,false
 51,"","",405,8881,0,true,true
-52,"","",405,9127,0,false,true
+52,"","",405,9127,0,true,true

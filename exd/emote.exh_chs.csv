@@ -61,7 +61,7 @@ Index,0 [STRING] [0x0],1 [USHORT] [0xC],2 [USHORT] [0xE],3 [USHORT] [0x10],4 [US
 59,"帝国式军礼",587,0,0,0,0,0,0,false,false,false,1,0,false,true,false,false,11,460,64066,179,279,23
 60,"头部装备操作",0,0,0,0,0,0,0,true,true,true,2,0,false,false,false,false,255,461,64065,0,0,0
 61,"头部装备操作",0,0,0,0,0,0,0,true,true,true,2,0,false,false,false,false,255,0,64065,0,0,0
-62,"",0,0,0,0,0,0,0,false,false,false,0,0,false,false,false,false,0,0,0,0,0,0
+62,"百万核爆",6240,0,0,0,0,0,0,false,false,false,2,0,false,true,false,false,200,463,64352,8078,8079,379
 63,"练武",6249,0,0,0,0,0,0,false,false,false,1,0,false,true,false,false,137,464,64353,8080,8081,378
 64,"魅惑拥抱",6242,6241,0,0,0,0,0,false,false,false,2,33,false,true,false,false,183,465,64354,8082,8083,384
 65,"声援小蓝",6244,6243,0,0,0,0,0,false,false,false,2,34,false,true,false,false,184,466,64355,8084,8085,381
