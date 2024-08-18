@@ -3764,7 +3764,7 @@ Index,0 [UBYTE] [0x4],1 [UBYTE] [0x5],2 [BBOOL] [0xD],3 [UBYTE] [0x6],4 [UBYTE] 
 3762,0,3,false,0,0,1,"normal/item_drink_housing",0,2,1,2,true,false,false,false,true
 3763,0,0,false,7,0,2,"emote_sp/sp01_start",0,2,1,2,true,true,false,false,true
 3764,0,0,true,4,0,2,"emote_sp/sp01_loop",0,2,1,2,true,true,false,false,true
-3765,0,0,false,0,0,0,"",0,0,0,0,false,false,false,false,false
+3765,0,3,false,0,0,1,"normal/item_sp02",0,2,1,2,true,true,false,false,true
 3766,0,0,false,7,0,0,"emote/fistbump",0,2,1,2,true,true,false,false,true
 3767,0,0,false,0,1,2,"emote/u_fistbump",0,2,1,2,true,false,false,false,true
 3768,0,0,false,0,1,2,"emote_ajust/u_fistbump",0,2,1,2,true,true,false,false,true
