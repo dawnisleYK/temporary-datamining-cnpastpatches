@@ -106,7 +106,7 @@ Index,0 [UBYTE] [0xC],1 [UBYTE] [0xD],2 [UBYTE] [0xE],3 [UINT] [0x0],4 [UBYTE] [
 131177,105,17,0,0,58,0,13087,false,false,true,5,0,0,false
 131178,106,17,0,0,0,0,9748,false,false,true,0,0,0,false
 131179,107,17,0,0,0,0,9749,false,false,true,0,0,0,false
-131180,108,17,6,0,38,0,8837,false,false,true,0,3,10,false
+131180,108,17,6,0,38,0,8837,false,false,true,0,3,10,true
 131181,109,17,0,0,37,721037,16003,false,false,true,3,0,0,false
 131182,110,17,0,0,37,721037,16004,false,false,true,3,0,0,false
 131183,111,17,0,0,37,721037,16005,false,false,true,3,0,0,false
@@ -184,3 +184,6 @@ Index,0 [UBYTE] [0xC],1 [UBYTE] [0xD],2 [UBYTE] [0xE],3 [UINT] [0x0],4 [UBYTE] [
 131263,177,17,0,0,0,0,22582,false,false,true,0,0,0,false
 131264,178,17,0,0,0,721037,22583,false,false,true,5,0,0,false
 131265,180,17,0,0,0,0,22584,false,false,true,5,0,0,false
+131266,182,17,0,0,0,0,23897,false,false,true,0,0,0,false
+131267,183,17,0,0,0,0,23898,false,false,true,0,0,0,false
+131268,187,17,0,0,0,0,23899,false,false,true,0,0,0,false

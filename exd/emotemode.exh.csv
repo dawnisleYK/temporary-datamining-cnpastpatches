@@ -1,4 +1,4 @@
-Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [BBOOL] [0x9],3 [BBOOL] [0x9],4 [BBOOL] [0x9],5 [BBOOL] [0x9],6 [UBYTE] [0x8],7 [BBOOL] [0x9]
+Index,0 [USHORT] [0x0],1 [USHORT] [0x2],2 [BBOOL] [0x5],3 [BBOOL] [0x5],4 [BBOOL] [0x5],5 [BBOOL] [0x5],6 [UBYTE] [0x4],7 [BBOOL] [0x5]
 0,0,0,true,true,false,false,0,false
 1,52,53,false,true,true,false,11,false
 2,50,51,false,true,true,true,11,false
@@ -43,3 +43,20 @@ Index,0 [UINT] [0x0],1 [UINT] [0x4],2 [BBOOL] [0x9],3 [BBOOL] [0x9],4 [BBOOL] [0
 41,176,0,true,false,false,false,3,false
 42,180,0,true,false,false,false,3,false
 43,181,0,true,false,false,false,3,false
+44,185,0,true,false,false,false,3,false
+45,186,0,true,false,false,false,3,false
+46,187,0,true,false,false,false,3,false
+47,188,0,true,false,false,false,3,false
+48,189,0,true,false,false,false,3,false
+49,0,0,true,true,false,false,0,false
+50,0,0,true,true,false,false,0,false
+51,0,0,true,true,false,false,0,false
+52,0,0,true,true,false,false,0,false
+53,0,0,true,true,false,false,0,false
+54,0,0,true,true,false,false,0,false
+55,0,0,true,true,false,false,0,false
+56,0,0,true,true,false,false,0,false
+57,0,0,true,true,false,false,0,false
+58,0,0,true,true,false,false,0,false
+59,0,0,true,true,false,false,0,false
+60,0,0,true,true,false,false,0,false

@@ -104,3 +104,4 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [UBYTE] [0x6],4 [UBYTE]
 102,"通过潜水艇“<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>”的探索，工房可以登记第<value>艘潜水艇了。",16,15,1,9,14
 103,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>删除了<if( 9 ) {<ref:ObjStr>} else {OBJ: 4 }>的留言。",16,23,0,5,11
 104,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>修改了交流簿的设置。",16,0,0,5,11
+105,"<if( 8 ) {<ref:ObjStr>} else {OBJ: 3 }>设定了房屋宣传标签。",16,0,0,5,11

@@ -55,7 +55,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x4],2 [UBYTE] [0x5],3 [BBOOL] [0xE],4 [BOOL] 
 1012,"鸟人族",1,255,false,true,true,true,true,true,true,true,true
 1013,"莫古力族",50,255,false,true,true,true,true,true,true,true,true
 1014,"鲶鱼精族",60,255,false,true,true,true,true,true,true,true,true
-1015,"老主顾交易",60,255,false,true,true,true,true,true,true,true,true
+1015,"老主顾交易",55,255,false,true,true,true,true,true,true,true,true
 1016,"[翻訳不要] SPレベル区分終端",255,255,false,true,true,true,true,true,true,true,true
 2000,"传承录",255,50,false,true,true,true,true,true,true,true,true
 2001,"",255,255,false,true,true,true,true,true,true,true,true

@@ -21,3 +21,9 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [BBOOL] [0xF],3 [STRING] [0x4],4 [BYTE]
 19,"究极神兵的以太",2,true,"ContentGaugeMax_negative",-1,1,0,-1,1,0
 20,"鬼龙雅兹玛特的魔力",2,true,"ContentGaugeMax_negative",-1,1,0,-1,1,0
 21,"魔人贝利亚斯的魔力",2,true,"ContentGaugeMax_negative",-1,1,0,-1,1,0
+22,"",0,false,"",0,0,0,0,0,0
+23,"朱红旋律",2,true,"ContentGaugeMax_negative",-1,1,0,-1,1,0
+24,"尘世幻龙的以太",2,true,"ContentGaugeMax_negative",-1,1,0,-1,1,0
+25,"陨石坠落",3,true,"ContentGaugeMax_negative",80,1,2,-1,1,0
+26,"黑水晶的魔力",1,false,"ContentGaugeMax_negative",50,1,3,80,1,2
+27,"雷力集中度",1,true,"ContentGaugeMax_negative",-1,1,0,-1,1,0

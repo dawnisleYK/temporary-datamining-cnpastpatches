@@ -6,7 +6,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [STRING] [0x4],3 [UBYTE] [0x9],4 [UBYTE
 4,"油画布",2,"gpose_canvas",10,1,1
 5,"壁画",2,"gpose_kabe",11,1,1
 6,"",0,"",0,0,0
-7,"圆点花纹1",2,"gpose_mizutama_hanten",14,1,1
+7,"圆点花纹1",2,"gpose_mizutama_hanten",15,1,1
 8,"云雾",2,"gpose_niji_naname",25,1,1
 9,"水彩",2,"gpose_suisaifude",20,1,1
 10,"复古",2,"gpose_filmnoise",31,1,1
@@ -27,12 +27,12 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [STRING] [0x4],3 [UBYTE] [0x9],4 [UBYTE
 25,"画笔1",2,"gpose_efude_sen",21,1,1
 26,"",0,"",0,0,0
 27,"",0,"",0,0,0
-28,"圆点花纹2",2,"gpose_mizutama_hanten_enbos",15,1,1
+28,"圆点花纹2",2,"gpose_mizutama_hanten_enbos",16,1,1
 29,"壁式画框",2,"gpose_frame_hagaki_3mai",58,2,1
 30,"上下装饰1",2,"gpose_frame_kousi_yoko",56,2,1
 31,"上下装饰2",2,"gpose_frame_doma_yoko",57,2,1
 32,"电影",2,"gpose_frame_cinema",53,2,1
-33,"图画纸",2,"gpose_gayousi",13,1,1
+33,"图画纸1",2,"gpose_gayousi",13,1,1
 34,"画笔3",2,"gpose_akatsuki",23,1,1
 35,"",0,"",0,0,0
 36,"",0,"",0,0,0
@@ -41,7 +41,7 @@ Index,0 [STRING] [0x0],1 [UBYTE] [0x8],2 [STRING] [0x4],3 [UBYTE] [0x9],4 [UBYTE
 39,"",0,"",0,0,0
 40,"",0,"",0,0,0
 41,"",0,"",0,0,0
-42,"",0,"",0,0,0
+42,"图画纸2",2,"gpose_gayousi_sima",14,1,1
 43,"",0,"",0,0,0
 44,"",0,"",0,0,0
 45,"",0,"",0,0,0

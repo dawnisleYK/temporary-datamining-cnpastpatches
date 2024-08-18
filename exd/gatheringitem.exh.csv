@@ -520,11 +520,11 @@ Index,0 [INT] [0x0],1 [USHORT] [0x4],2 [BBOOL] [0x6]
 518,23150,215,false
 519,23151,220,false
 520,23152,225,false
-521,0,0,false
-522,0,0,false
-523,0,0,false
-524,0,0,false
-525,0,0,false
+521,24255,320,false
+522,24240,340,false
+523,24241,340,false
+524,24242,340,false
+525,24243,340,false
 526,0,0,false
 527,0,0,false
 528,0,0,false

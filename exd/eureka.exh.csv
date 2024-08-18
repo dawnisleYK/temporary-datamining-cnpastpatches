@@ -1,4 +1,5 @@
-Index,0 [UBYTE] [0x2],1 [UBYTE] [0x3],2 [USHORT] [0x0]
-0,0,0,0
-1,20,0,3831
-2,0,1,0
+Index,0 [UBYTE] [0x2],1 [UBYTE] [0x3],2 [USHORT] [0x0],3 [BBOOL] [0x4]
+0,0,0,0,false
+1,20,0,3831,false
+2,0,1,0,false
+3,0,0,0,false

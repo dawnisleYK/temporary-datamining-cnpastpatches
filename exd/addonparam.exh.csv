@@ -1,17 +1,27 @@
 Index,0 [STRING] [0x0],1 [BBOOL] [0x4]
 0,"AchievementInfo",true
 1,"CrossWorldLinkshell",true
+2,"EurekaMagiciteItemSynthesis",true
 3,"JournalAccept",true
 4,"JournalResult",true
 5,"Trade",true
+6,"EurekaMagiaActionNotebook",true
 7,"NeedGreed",true
+8,"7EurekaWeaponAdjust",true
 9,"Shop",true
+10,"Description",true
+11,"Alarm",true
 12,"ListGrid",true
+13,"AlarmSettings",true
+14,"FreeShop",true
+15,"MerchantEquipSelect",true
 16,"LinkShell",true
+17,"MerchantSetting",false
 18,"SocialDetailA",true
 19,"SocialDetailB",true
 20,"PcSearchDetail",true
 21,"GuildLeve",true
+22,"MerchantShop",true
 23,"Macro",true
 24,"AreaMap",true
 25,"GuildLeveDifficulty",true
